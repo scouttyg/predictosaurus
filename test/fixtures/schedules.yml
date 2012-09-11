@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  opponent1_id: 1
+  opponent2_id: 1
+  date: 
+  opponent1_score: 1
+  opponent2_score: 1
+  home_opponent1: false
+  year_id: 1
+
+two:
+  opponent1_id: 1
+  opponent2_id: 1
+  date: 
+  opponent1_score: 1
+  opponent2_score: 1
+  home_opponent1: false
+  year_id: 1
