@@ -62,26 +62,39 @@ def check_or_add_team(row)
     end
 end
 
+def check_or_add_team_retroactive(row)
+    if Team.find_by_name(row[1]).nil?
+        t = Team.new
+        t.name = team_name
+        t.save!
+    end
+    if Team.find_by_name(row[4]).nil?
+        t = Team.new
+        t.name = row[4]
+        t.save!
+    end
+end
+
 namespace :populate do
-    namespace :2012 do
+    namespace :y2012 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2012.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
                 Schedule.create(
-                :opponent1_id => row[0].to_i,
-                :opponent2_id => row[3].to_i,
-                :date => Date.strptime(row[2],'%m/%d/%y'),
-                :opponent1_score => get_score(row, 1),
-                :opponent2_score => get_score(row, 2),
-                :home_opponent1 => bool_home(row),
-                :year_id => get_year(row)
+                    :opponent1_id => row[0].to_i,
+                    :opponent2_id => row[3].to_i,
+                    :date => Date.strptime(row[2],'%m/%d/%y'),
+                    :opponent1_score => get_score(row, 1),
+                    :opponent2_score => get_score(row, 2),
+                    :home_opponent1 => bool_home(row),
+                    :year_id => get_year(row)
                 )
                 check_or_add_team(row)
             end
         end
     end
-    namespace :2011 do
+    namespace :y2011 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2011.csv"
@@ -100,7 +113,7 @@ namespace :populate do
         end
     end
 
-    namespace :2010 do
+    namespace :y2010 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2010.csv"
@@ -120,7 +133,7 @@ namespace :populate do
         end
     end
 
-    namespace :2009 do
+    namespace :y2009 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2009.csv"
@@ -140,7 +153,7 @@ namespace :populate do
         end
     end
 
-    namespace :2008 do
+    namespace :y2008 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2008.csv"
@@ -159,7 +172,7 @@ namespace :populate do
         end
     end
 
-    namespace :2007 do
+    namespace :y2007 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2007.csv"
@@ -180,14 +193,14 @@ namespace :populate do
 
 
 
+    # This is where things go to shit
 
-    # This is where everything goes to shit -- ffs. Have to now start using data from another source which isnt as good.
-
-    namespace :2006 do
+    namespace :y2006 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2006.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
+                check_or_add_team_retroactive(row)
                 Schedule.create(
                 :opponent1_id => Team.find_by_name(row[1]),
                 :opponent2_id => Team.find_by_name(row[4]),
@@ -201,11 +214,12 @@ namespace :populate do
         end
     end
 
-    namespace :2005 do
+    namespace :y2005 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2005.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
+                check_or_add_team_retroactive(row)
                 Schedule.create(
                 :opponent1_id => Team.find_by_name(row[1]),
                 :opponent2_id => Team.find_by_name(row[4]),
@@ -219,11 +233,12 @@ namespace :populate do
         end
     end
 
-    namespace :2004 do
+    namespace :y2004 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2004.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
+                check_or_add_team_retroactive(row)
                 Schedule.create(
                 :opponent1_id => Team.find_by_name(row[1]),
                 :opponent2_id => Team.find_by_name(row[4]),
@@ -237,11 +252,12 @@ namespace :populate do
         end
     end
 
-    namespace :2003 do
+    namespace :y2003 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2003.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
+                check_or_add_team_retroactive(row)
                 Schedule.create(
                 :opponent1_id => Team.find_by_name(row[1]),
                 :opponent2_id => Team.find_by_name(row[4]),
@@ -256,11 +272,12 @@ namespace :populate do
     end
 
 
-    namespace :2002 do
+    namespace :y2002 do
         desc "Import schedule from csv file"
         task :import_schedules => [:environment] do
             file = "Schedule2002.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
+                check_or_add_team_retroactive(row)
                 Schedule.create(
                 :opponent1_id => Team.find_by_name(row[1]),
                 :opponent2_id => Team.find_by_name(row[4]),
