@@ -1,1371 +1,725 @@
-"Institution ID","Institution","Game Date","Opponent ID","Opponent Name","Location"
-"5","Akron","10/09/04","86","Buffalo","Home"
-"5","Akron","10/16/04","128","UCF","Away"
-"5","Akron","11/13/04","519","Ohio","Away"
-"5","Akron","09/04/04","539","Penn St.","Away"
-"5","Akron","11/20/04","414","Miami (Ohio)","Home"
-"5","Akron","09/11/04","419","Middle Tenn. St.","Home"
-"5","Akron","11/05/04","388","Marshall","Home"
-"5","Akron","09/18/04","746","Virginia","Away"
-"5","Akron","10/23/04","47","Ball St.","Home"
-"5","Akron","09/23/04","331","Kent St.","Away"
-"5","Akron","10/02/04","503","Northern Ill.","Away"
-"8","Alabama","09/11/04","433","Mississippi","Home"
-"8","Alabama","10/23/04","694","Tennessee","Away"
-"8","Alabama","10/02/04","648","South Carolina","Home"
-"8","Alabama","09/18/04","769","Western Caro.","Home"
-"8","Alabama","10/16/04","664","Southern Miss.","Home"
-"8","Alabama","11/13/04","365","LSU","Away"
-"8","Alabama","09/04/04","731","Utah St.","Home"
-"8","Alabama","09/25/04","31","Arkansas","Away"
-"8","Alabama","11/20/04","37","Auburn","Home"
-"8","Alabama","10/09/04","334","Kentucky","Away"
-"8","Alabama","11/06/04","430","Mississippi St.","Home"
-"8","Alabama","12/31/04","428","Minnesota","Away"
-"9","UAB","11/03/04","651","South Fla.","Home"
-"9","UAB","11/13/04","288","Houston","Home"
-"9","UAB","09/25/04","404","Memphis","Home"
-"9","UAB","10/09/04","430","Mississippi St.","Away"
-"9","UAB","10/15/04","698","TCU","Home"
-"9","UAB","09/18/04","234","Florida St.","Away"
-"9","UAB","09/04/04","51","Baylor","Home"
-"9","UAB","11/20/04","725","Army","Away"
-"9","UAB","10/23/04","718","Tulane","Away"
-"9","UAB","11/27/04","664","Southern Miss.","Away"
-"9","UAB","12/24/04","277","Hawaii","Neutral Site"
-"9","UAB","10/02/04","140","Cincinnati","Away"
-"28","Arizona St.","09/02/04","704","UTEP","Home"
-"28","Arizona St.","11/13/04","754","Washington St.","Home"
-"28","Arizona St.","10/23/04","110","UCLA","Home"
-"28","Arizona St.","10/30/04","107","California","Away"
-"28","Arizona St.","11/06/04","674","Stanford","Home"
-"28","Arizona St.","12/31/04","559","Purdue","Away"
-"28","Arizona St.","10/16/04","657","Southern California","Away"
-"28","Arizona St.","09/18/04","312","Iowa","Home"
-"28","Arizona St.","11/26/04","29","Arizona","Away"
-"28","Arizona St.","10/02/04","529","Oregon","Away"
-"28","Arizona St.","09/25/04","528","Oregon St.","Home"
-"28","Arizona St.","09/11/04","509","Northwestern","Away"
-"29","Arizona","10/23/04","107","California","Home"
-"29","Arizona","10/30/04","528","Oregon St.","Home"
-"29","Arizona","11/13/04","657","Southern California","Away"
-"29","Arizona","11/26/04","28","Arizona St.","Home"
-"29","Arizona","10/16/04","529","Oregon","Away"
-"29","Arizona","09/04/04","501","Northern Ariz.","Home"
-"29","Arizona","09/25/04","754","Washington St.","Home"
-"29","Arizona","11/06/04","756","Washington","Away"
-"29","Arizona","10/09/04","110","UCLA","Away"
-"29","Arizona","09/18/04","796","Wisconsin","Home"
-"29","Arizona","09/11/04","732","Utah","Home"
-"30","Arkansas St.","10/02/04","433","Mississippi","Away"
-"30","Arkansas St.","09/04/04","434","Missouri","Away"
-"30","Arkansas St.","10/23/04","671","La.-Lafayette","Away"
-"30","Arkansas St.","09/11/04","365","LSU","Away"
-"30","Arkansas St.","11/11/04","731","Utah St.","Home"
-"30","Arkansas St.","10/16/04","716","Troy","Home"
-"30","Arkansas St.","11/18/04","497","North Texas","Home"
-"30","Arkansas St.","09/25/04","498","La.-Monroe","Away"
-"30","Arkansas St.","11/06/04","295","Idaho","Away"
-"30","Arkansas St.","09/18/04","404","Memphis","Home"
-"30","Arkansas St.","10/09/04","419","Middle Tenn. St.","Away"
-"31","Arkansas","10/16/04","37","Auburn","Away"
-"31","Arkansas","09/25/04","8","Alabama","Home"
-"31","Arkansas","11/20/04","430","Mississippi St.","Away"
-"31","Arkansas","11/13/04","433","Mississippi","Home"
-"31","Arkansas","11/06/04","648","South Carolina","Away"
-"31","Arkansas","10/02/04","235","Florida","Away"
-"31","Arkansas","10/23/04","257","Georgia","Home"
-"31","Arkansas","11/26/04","365","LSU","Home"
-"31","Arkansas","09/04/04","472","New Mexico St.","Home"
-"31","Arkansas","09/11/04","703","Texas","Home"
-"31","Arkansas","09/18/04","498","La.-Monroe","Neutral Site"
-"37","Auburn","10/30/04","433","Mississippi","Away"
-"37","Auburn","09/18/04","365","LSU","Home"
-"37","Auburn","11/13/04","257","Georgia","Home"
-"37","Auburn","01/03/05","742","Virginia Tech","Neutral Site"
-"37","Auburn","10/02/04","694","Tennessee","Away"
-"37","Auburn","12/04/04","694","Tennessee","Neutral Site"
-"37","Auburn","09/04/04","498","La.-Monroe","Home"
-"37","Auburn","09/25/04","141","Citadel","Home"
-"37","Auburn","09/11/04","430","Mississippi St.","Away"
-"37","Auburn","10/23/04","334","Kentucky","Home"
-"37","Auburn","10/09/04","366","Louisiana Tech","Home"
-"37","Auburn","11/20/04","8","Alabama","Away"
-"37","Auburn","10/16/04","31","Arkansas","Home"
-"47","Ball St.","11/13/04","128","UCF","Home"
-"47","Ball St.","11/20/04","129","Central Mich.","Away"
-"47","Ball St.","10/09/04","204","Eastern Mich.","Home"
-"47","Ball St.","09/11/04","559","Purdue","Away"
-"47","Ball St.","10/23/04","5","Akron","Away"
-"47","Ball St.","09/18/04","434","Missouri","Away"
-"47","Ball St.","10/30/04","503","Northern Ill.","Home"
-"47","Ball St.","10/16/04","71","Bowling Green","Away"
-"47","Ball St.","09/02/04","67","Boston College","Home"
-"47","Ball St.","09/25/04","774","Western Mich.","Home"
-"47","Ball St.","10/02/04","709","Toledo","Away"
-"51","Baylor","10/09/04","434","Missouri","Home"
-"51","Baylor","09/25/04","497","North Texas","Home"
-"51","Baylor","10/30/04","697","Texas A&M","Home"
-"51","Baylor","11/06/04","700","Texas Tech","Away"
-"51","Baylor","10/16/04","463","Nebraska","Away"
-"51","Baylor","10/02/04","703","Texas","Away"
-"51","Baylor","09/11/04","670","Texas St.","Home"
-"51","Baylor","10/23/04","311","Iowa St.","Home"
-"51","Baylor","09/04/04","9","UAB","Away"
-"51","Baylor","11/20/04","522","Oklahoma","Home"
-"51","Baylor","11/13/04","521","Oklahoma St.","Away"
-"66","Boise St.","09/24/04","77","Brigham Young","Home"
-"66","Boise St.","11/20/04","366","Louisiana Tech","Home"
-"66","Boise St.","12/31/04","367","Louisville","Neutral Site"
-"66","Boise St.","10/02/04","663","Southern Methodist","Home"
-"66","Boise St.","09/10/04","528","Oregon St.","Home"
-"66","Boise St.","10/23/04","96","Fresno St.","Home"
-"66","Boise St.","09/04/04","295","Idaho","Home"
-"66","Boise St.","09/18/04","704","UTEP","Away"
-"66","Boise St.","10/16/04","719","Tulsa","Away"
-"66","Boise St.","10/29/04","277","Hawaii","Home"
-"66","Boise St.","11/13/04","630","San Jose St.","Away"
-"66","Boise St.","11/27/04","466","Nevada","Away"
-"67","Boston College","12/30/04","457","North Carolina","Away"
-"67","Boston College","09/25/04","749","Wake Forest","Away"
-"67","Boston College","10/02/04","400","Massachusetts","Home"
-"67","Boston College","11/20/04","690","Temple","Away"
-"67","Boston College","09/02/04","47","Ball St.","Away"
-"67","Boston College","11/13/04","768","West Virginia","Away"
-"67","Boston College","09/17/04","164","Connecticut","Home"
-"67","Boston College","10/16/04","545","Pittsburgh","Away"
-"67","Boston College","11/06/04","587","Rutgers","Home"
-"67","Boston College","11/27/04","688","Syracuse","Home"
-"67","Boston College","09/11/04","539","Penn St.","Home"
-"67","Boston College","10/23/04","513","Notre Dame","Away"
-"71","Bowling Green","10/09/04","129","Central Mich.","Away"
-"71","Bowling Green","10/23/04","519","Ohio","Away"
-"71","Bowling Green","10/30/04","204","Eastern Mich.","Home"
-"71","Bowling Green","09/11/04","654","Southeast Mo. St.","Home"
-"71","Bowling Green","11/13/04","388","Marshall","Home"
-"71","Bowling Green","12/22/04","404","Memphis","Neutral Site"
-"71","Bowling Green","09/04/04","522","Oklahoma","Away"
-"71","Bowling Green","11/23/04","709","Toledo","Away"
-"71","Bowling Green","10/02/04","690","Temple","Away"
-"71","Bowling Green","09/24/04","503","Northern Ill.","Away"
-"71","Bowling Green","10/16/04","47","Ball St.","Home"
-"71","Bowling Green","11/06/04","774","Western Mich.","Home"
-"77","Brigham Young","11/13/04","473","New Mexico","Home"
-"77","Brigham Young","10/23/04","721","Air Force","Away"
-"77","Brigham Young","09/24/04","66","Boise St.","Away"
-"77","Brigham Young","10/16/04","811","Wyoming","Home"
-"77","Brigham Young","11/20/04","732","Utah","Away"
-"77","Brigham Young","10/08/04","465","UNLV","Home"
-"77","Brigham Young","10/02/04","156","Colorado St.","Away"
-"77","Brigham Young","09/11/04","674","Stanford","Away"
-"77","Brigham Young","11/06/04","626","San Diego St.","Home"
-"77","Brigham Young","09/04/04","513","Notre Dame","Home"
-"77","Brigham Young","09/18/04","657","Southern California","Home"
-"86","Buffalo","10/02/04","128","UCF","Home"
-"86","Buffalo","10/16/04","414","Miami (Ohio)","Home"
-"86","Buffalo","10/23/04","388","Marshall","Away"
-"86","Buffalo","10/09/04","5","Akron","Away"
-"86","Buffalo","09/25/04","519","Ohio","Away"
-"86","Buffalo","09/11/04","688","Syracuse","Home"
-"86","Buffalo","09/02/04","204","Eastern Mich.","Away"
-"86","Buffalo","11/20/04","164","Connecticut","Away"
-"86","Buffalo","11/13/04","129","Central Mich.","Home"
-"86","Buffalo","11/06/04","331","Kent St.","Home"
-"86","Buffalo","09/18/04","466","Nevada","Away"
-"96","Fresno St.","09/11/04","327","Kansas St.","Away"
-"96","Fresno St.","09/05/04","756","Washington","Away"
-"96","Fresno St.","11/27/04","630","San Jose St.","Away"
-"96","Fresno St.","11/20/04","466","Nevada","Home"
-"96","Fresno St.","11/12/04","277","Hawaii","Home"
-"96","Fresno St.","10/23/04","66","Boise St.","Away"
-"96","Fresno St.","12/27/04","746","Virginia","Neutral Site"
-"96","Fresno St.","10/09/04","704","UTEP","Home"
-"96","Fresno St.","09/18/04","550","Portland St.","Home"
-"96","Fresno St.","11/06/04","574","Rice","Away"
-"96","Fresno St.","10/02/04","366","Louisiana Tech","Away"
-"96","Fresno St.","10/30/04","663","Southern Methodist","Home"
-"107","California","10/09/04","657","Southern California","Away"
-"107","California","11/06/04","529","Oregon","Home"
-"107","California","10/30/04","28","Arizona St.","Home"
-"107","California","10/23/04","29","Arizona","Away"
-"107","California","11/20/04","674","Stanford","Home"
-"107","California","10/02/04","528","Oregon St.","Away"
-"107","California","12/30/04","700","Texas Tech","Neutral Site"
-"107","California","09/04/04","721","Air Force","Away"
-"107","California","11/13/04","756","Washington","Away"
-"107","California","12/04/04","664","Southern Miss.","Away"
-"107","California","09/11/04","472","New Mexico St.","Home"
-"107","California","10/16/04","110","UCLA","Home"
-"110","UCLA","12/23/04","811","Wyoming","Neutral Site"
-"110","UCLA","11/06/04","754","Washington St.","Home"
-"110","UCLA","09/18/04","756","Washington","Away"
-"110","UCLA","10/16/04","107","California","Away"
-"110","UCLA","10/09/04","29","Arizona","Home"
-"110","UCLA","10/23/04","28","Arizona St.","Away"
-"110","UCLA","11/13/04","529","Oregon","Away"
-"110","UCLA","09/04/04","521","Oklahoma St.","Home"
-"110","UCLA","09/11/04","301","Illinois","Away"
-"110","UCLA","12/04/04","657","Southern California","Home"
-"110","UCLA","10/30/04","674","Stanford","Home"
-"110","UCLA","10/02/04","626","San Diego St.","Home"
-"128","UCF","10/02/04","86","Buffalo","Away"
-"128","UCF","11/06/04","519","Ohio","Home"
-"128","UCF","10/16/04","5","Akron","Home"
-"128","UCF","09/18/04","539","Penn St.","Away"
-"128","UCF","10/30/04","388","Marshall","Away"
-"128","UCF","10/23/04","414","Miami (Ohio)","Away"
-"128","UCF","09/11/04","768","West Virginia","Home"
-"128","UCF","09/04/04","796","Wisconsin","Away"
-"128","UCF","11/23/04","331","Kent St.","Home"
-"128","UCF","11/13/04","47","Ball St.","Away"
-"128","UCF","10/09/04","503","Northern Ill.","Home"
-"129","Central Mich.","10/23/04","709","Toledo","Away"
-"129","Central Mich.","10/16/04","503","Northern Ill.","Away"
-"129","Central Mich.","09/11/04","416","Michigan St.","Away"
-"129","Central Mich.","11/20/04","47","Ball St.","Home"
-"129","Central Mich.","10/09/04","71","Bowling Green","Home"
-"129","Central Mich.","10/02/04","331","Kent St.","Home"
-"129","Central Mich.","10/30/04","774","Western Mich.","Home"
-"129","Central Mich.","11/13/04","86","Buffalo","Away"
-"129","Central Mich.","11/06/04","204","Eastern Mich.","Neutral Site"
-"129","Central Mich.","09/04/04","306","Indiana","Away"
-"129","Central Mich.","09/18/04","654","Southeast Mo. St.","Home"
-"140","Cincinnati","09/25/04","196","East Caro.","Away"
-"140","Cincinnati","09/11/04","414","Miami (Ohio)","Home"
-"140","Cincinnati","10/23/04","404","Memphis","Home"
-"140","Cincinnati","12/23/04","388","Marshall","Neutral Site"
-"140","Cincinnati","11/27/04","367","Louisville","Away"
-"140","Cincinnati","10/02/04","9","UAB","Home"
-"140","Cincinnati","09/04/04","518","Ohio St.","Away"
-"140","Cincinnati","09/18/04","688","Syracuse","Away"
-"140","Cincinnati","11/20/04","651","South Fla.","Home"
-"140","Cincinnati","10/30/04","698","TCU","Home"
-"140","Cincinnati","11/06/04","664","Southern Miss.","Away"
-"140","Cincinnati","10/09/04","725","Army","Away"
-"147","Clemson","10/30/04","490","North Carolina St.","Home"
-"147","Clemson","09/18/04","697","Texas A&M","Away"
-"147","Clemson","11/20/04","648","South Carolina","Home"
-"147","Clemson","10/07/04","746","Virginia","Away"
-"147","Clemson","09/04/04","749","Wake Forest","Home"
-"147","Clemson","10/16/04","731","Utah St.","Home"
-"147","Clemson","09/25/04","234","Florida St.","Away"
-"147","Clemson","11/13/04","193","Duke","Away"
-"147","Clemson","09/11/04","255","Georgia Tech","Home"
-"147","Clemson","10/23/04","392","Maryland","Home"
-"147","Clemson","11/06/04","415","Miami (Fla.)","Away"
-"156","Colorado St.","10/02/04","77","Brigham Young","Home"
-"156","Colorado St.","10/16/04","626","San Diego St.","Away"
-"156","Colorado St.","09/04/04","157","Colorado","Away"
-"156","Colorado St.","09/11/04","657","Southern California","Away"
-"156","Colorado St.","09/18/04","428","Minnesota","Home"
-"156","Colorado St.","09/25/04","440","Montana St.","Home"
-"156","Colorado St.","10/30/04","473","New Mexico","Home"
-"156","Colorado St.","10/22/04","811","Wyoming","Home"
-"156","Colorado St.","11/06/04","732","Utah","Away"
-"156","Colorado St.","11/20/04","721","Air Force","Away"
-"156","Colorado St.","11/13/04","465","UNLV","Home"
-"157","Colorado","10/02/04","434","Missouri","Away"
-"157","Colorado","11/06/04","328","Kansas","Away"
-"157","Colorado","11/13/04","327","Kansas St.","Home"
-"157","Colorado","09/18/04","497","North Texas","Home"
-"157","Colorado","10/23/04","697","Texas A&M","Away"
-"157","Colorado","12/29/04","704","UTEP","Away"
-"157","Colorado","10/30/04","703","Texas","Home"
-"157","Colorado","09/11/04","754","Washington St.","Neutral Site"
-"157","Colorado","11/26/04","463","Nebraska","Away"
-"157","Colorado","09/04/04","156","Colorado St.","Home"
-"157","Colorado","10/16/04","311","Iowa St.","Home"
-"157","Colorado","12/04/04","522","Oklahoma","Neutral Site"
-"157","Colorado","10/09/04","521","Oklahoma St.","Home"
-"164","Connecticut","11/20/04","86","Buffalo","Home"
-"164","Connecticut","09/30/04","545","Pittsburgh","Home"
-"164","Connecticut","10/30/04","688","Syracuse","Away"
-"164","Connecticut","11/13/04","255","Georgia Tech","Away"
-"164","Connecticut","11/25/04","587","Rutgers","Away"
-"164","Connecticut","09/11/04","193","Duke","Home"
-"164","Connecticut","09/04/04","454","Murray St.","Home"
-"164","Connecticut","12/27/04","709","Toledo","Neutral Site"
-"164","Connecticut","10/13/04","768","West Virginia","Home"
-"164","Connecticut","09/25/04","725","Army","Home"
-"164","Connecticut","10/23/04","690","Temple","Home"
-"164","Connecticut","09/17/04","67","Boston College","Away"
-"193","Duke","11/20/04","457","North Carolina","Home"
-"193","Duke","11/06/04","234","Florida St.","Away"
-"193","Duke","09/04/04","726","Navy","Away"
-"193","Duke","09/18/04","742","Virginia Tech","Away"
-"193","Duke","10/23/04","746","Virginia","Home"
-"193","Duke","10/30/04","749","Wake Forest","Away"
-"193","Duke","10/02/04","141","Citadel","Home"
-"193","Duke","09/25/04","392","Maryland","Home"
-"193","Duke","10/16/04","255","Georgia Tech","Away"
-"193","Duke","09/11/04","164","Connecticut","Away"
-"193","Duke","11/13/04","147","Clemson","Home"
-"196","East Caro.","11/13/04","651","South Fla.","Away"
-"196","East Caro.","11/20/04","404","Memphis","Home"
-"196","East Caro.","10/02/04","367","Louisville","Away"
-"196","East Caro.","11/06/04","288","Houston","Away"
-"196","East Caro.","11/27/04","490","North Carolina St.","Neutral Site"
-"196","East Caro.","09/11/04","749","Wake Forest","Home"
-"196","East Caro.","09/25/04","140","Cincinnati","Home"
-"196","East Caro.","10/30/04","725","Army","Home"
-"196","East Caro.","09/04/04","768","West Virginia","Away"
-"196","East Caro.","10/23/04","664","Southern Miss.","Away"
-"196","East Caro.","10/09/04","718","Tulane","Home"
-"204","Eastern Mich.","09/18/04","709","Toledo","Home"
-"204","Eastern Mich.","09/11/04","235","Florida","Away"
-"204","Eastern Mich.","10/16/04","774","Western Mich.","Away"
-"204","Eastern Mich.","10/30/04","71","Bowling Green","Away"
-"204","Eastern Mich.","11/20/04","503","Northern Ill.","Home"
-"204","Eastern Mich.","11/13/04","331","Kent St.","Away"
-"204","Eastern Mich.","10/09/04","47","Ball St.","Away"
-"204","Eastern Mich.","09/02/04","86","Buffalo","Home"
-"204","Eastern Mich.","09/25/04","201","Eastern Ill.","Home"
-"204","Eastern Mich.","10/02/04","295","Idaho","Home"
-"204","Eastern Mich.","11/06/04","129","Central Mich.","Neutral Site"
-"229","Fla. Atlantic","10/09/04","670","Texas St.","Away"
-"229","Fla. Atlantic","11/20/04","299","Illinois St.","Home"
-"229","Fla. Atlantic","09/18/04","419","Middle Tenn. St.","Away"
-"229","Fla. Atlantic","11/27/04","501555","Edward Waters","Home"
-"229","Fla. Atlantic","12/04/04","231","Florida Int'l","Home"
-"229","Fla. Atlantic","09/11/04","497","North Texas","Away"
-"229","Fla. Atlantic","10/23/04","498","La.-Monroe","Home"
-"229","Fla. Atlantic","10/16/04","502","Northern Colo.","Away"
-"229","Fla. Atlantic","11/13/04","472","New Mexico St.","Home"
-"229","Fla. Atlantic","09/04/04","277","Hawaii","Away"
-"229","Fla. Atlantic","10/30/04","228","Florida A&M","Away"
-"229","Fla. Atlantic","11/06/04","716","Troy","Away"
-"234","Florida St.","11/11/04","490","North Carolina St.","Away"
-"234","Florida St.","10/02/04","457","North Carolina","Home"
-"234","Florida St.","01/01/05","768","West Virginia","Away"
-"234","Florida St.","10/23/04","749","Wake Forest","Away"
-"234","Florida St.","10/16/04","746","Virginia","Home"
-"234","Florida St.","11/20/04","235","Florida","Home"
-"234","Florida St.","09/25/04","147","Clemson","Home"
-"234","Florida St.","09/10/04","415","Miami (Fla.)","Away"
-"234","Florida St.","10/09/04","688","Syracuse","Away"
-"234","Florida St.","09/18/04","9","UAB","Home"
-"234","Florida St.","10/30/04","392","Maryland","Away"
-"234","Florida St.","11/06/04","193","Duke","Home"
-"235","Florida","09/11/04","204","Eastern Mich.","Home"
-"235","Florida","10/23/04","430","Mississippi St.","Away"
-"235","Florida","10/16/04","419","Middle Tenn. St.","Home"
-"235","Florida","12/31/04","415","Miami (Fla.)","Neutral Site"
-"235","Florida","09/25/04","334","Kentucky","Home"
-"235","Florida","10/02/04","31","Arkansas","Home"
-"235","Florida","09/18/04","694","Tennessee","Away"
-"235","Florida","11/06/04","736","Vanderbilt","Away"
-"235","Florida","11/13/04","648","South Carolina","Home"
-"235","Florida","10/09/04","365","LSU","Home"
-"235","Florida","10/30/04","257","Georgia","Neutral Site"
-"235","Florida","11/20/04","234","Florida St.","Away"
-"255","Georgia Tech","11/06/04","490","North Carolina St.","Away"
-"255","Georgia Tech","09/18/04","457","North Carolina","Away"
-"255","Georgia Tech","10/28/04","742","Virginia Tech","Home"
-"255","Georgia Tech","11/27/04","257","Georgia","Away"
-"255","Georgia Tech","11/20/04","746","Virginia","Home"
-"255","Georgia Tech","09/11/04","147","Clemson","Away"
-"255","Georgia Tech","11/13/04","164","Connecticut","Home"
-"255","Georgia Tech","10/02/04","415","Miami (Fla.)","Home"
-"255","Georgia Tech","10/09/04","392","Maryland","Away"
-"255","Georgia Tech","10/16/04","193","Duke","Home"
-"255","Georgia Tech","12/21/04","688","Syracuse","Neutral Site"
-"255","Georgia Tech","09/04/04","625","Samford","Home"
-"257","Georgia","10/23/04","31","Arkansas","Away"
-"257","Georgia","11/27/04","255","Georgia Tech","Home"
-"257","Georgia","09/18/04","388","Marshall","Home"
-"257","Georgia","11/06/04","334","Kentucky","Away"
-"257","Georgia","11/13/04","37","Auburn","Away"
-"257","Georgia","10/09/04","694","Tennessee","Home"
-"257","Georgia","01/01/05","796","Wisconsin","Away"
-"257","Georgia","10/02/04","365","LSU","Home"
-"257","Georgia","09/11/04","648","South Carolina","Away"
-"257","Georgia","10/16/04","736","Vanderbilt","Home"
-"257","Georgia","09/04/04","253","Ga. Southern","Home"
-"257","Georgia","10/30/04","235","Florida","Neutral Site"
-"277","Hawaii","10/16/04","704","UTEP","Away"
-"277","Hawaii","10/23/04","630","San Jose St.","Home"
-"277","Hawaii","10/09/04","466","Nevada","Home"
-"277","Hawaii","12/04/04","416","Michigan St.","Home"
-"277","Hawaii","10/29/04","66","Boise St.","Away"
-"277","Hawaii","10/02/04","719","Tulsa","Home"
-"277","Hawaii","11/12/04","96","Fresno St.","Away"
-"277","Hawaii","11/20/04","295","Idaho","Home"
-"277","Hawaii","11/06/04","366","Louisiana Tech","Home"
-"277","Hawaii","12/24/04","9","UAB","Away"
-"277","Hawaii","09/04/04","229","Fla. Atlantic","Home"
-"277","Hawaii","11/27/04","509","Northwestern","Home"
-"277","Hawaii","09/18/04","574","Rice","Away"
-"288","Houston","11/06/04","196","East Caro.","Home"
-"288","Houston","09/23/04","415","Miami (Fla.)","Home"
-"288","Houston","10/02/04","404","Memphis","Away"
-"288","Houston","11/20/04","367","Louisville","Home"
-"288","Houston","11/13/04","9","UAB","Away"
-"288","Houston","09/11/04","522","Oklahoma","Away"
-"288","Houston","09/05/04","574","Rice","Away"
-"288","Houston","10/23/04","698","TCU","Away"
-"288","Houston","10/30/04","718","Tulane","Home"
-"288","Houston","10/07/04","664","Southern Miss.","Away"
-"288","Houston","09/18/04","725","Army","Home"
-"295","Idaho","11/13/04","497","North Texas","Away"
-"295","Idaho","10/30/04","716","Troy","Away"
-"295","Idaho","11/20/04","277","Hawaii","Away"
-"295","Idaho","09/18/04","754","Washington St.","Home"
-"295","Idaho","10/16/04","671","La.-Lafayette","Home"
-"295","Idaho","09/04/04","66","Boise St.","Away"
-"295","Idaho","09/11/04","731","Utah St.","Away"
-"295","Idaho","10/09/04","498","La.-Monroe","Home"
-"295","Idaho","10/02/04","204","Eastern Mich.","Away"
-"295","Idaho","09/25/04","529","Oregon","Away"
-"295","Idaho","10/23/04","419","Middle Tenn. St.","Away"
-"295","Idaho","11/06/04","30","Arkansas St.","Home"
-"301","Illinois","09/25/04","559","Purdue","Home"
-"301","Illinois","11/20/04","509","Northwestern","Away"
-"301","Illinois","10/23/04","428","Minnesota","Away"
-"301","Illinois","10/16/04","418","Michigan","Home"
-"301","Illinois","10/30/04","312","Iowa","Home"
-"301","Illinois","11/06/04","306","Indiana","Home"
-"301","Illinois","09/18/04","774","Western Mich.","Home"
-"301","Illinois","10/09/04","416","Michigan St.","Away"
-"301","Illinois","09/04/04","228","Florida A&M","Home"
-"301","Illinois","09/11/04","110","UCLA","Home"
-"301","Illinois","10/02/04","796","Wisconsin","Away"
-"306","Indiana","09/25/04","416","Michigan St.","Home"
-"306","Indiana","09/04/04","129","Central Mich.","Home"
-"306","Indiana","11/06/04","301","Illinois","Away"
-"306","Indiana","10/30/04","428","Minnesota","Home"
-"306","Indiana","10/02/04","418","Michigan","Home"
-"306","Indiana","09/18/04","334","Kentucky","Away"
-"306","Indiana","11/13/04","539","Penn St.","Home"
-"306","Indiana","09/11/04","529","Oregon","Away"
-"306","Indiana","10/23/04","518","Ohio St.","Away"
-"306","Indiana","10/09/04","509","Northwestern","Away"
-"306","Indiana","11/20/04","559","Purdue","Away"
-"311","Iowa St.","10/16/04","157","Colorado","Away"
-"311","Iowa St.","09/11/04","312","Iowa","Away"
-"311","Iowa St.","12/28/04","414","Miami (Ohio)","Neutral Site"
-"311","Iowa St.","10/02/04","521","Oklahoma St.","Away"
-"311","Iowa St.","11/27/04","434","Missouri","Home"
-"311","Iowa St.","09/18/04","503","Northern Ill.","Home"
-"311","Iowa St.","09/04/04","504","Northern Iowa","Home"
-"311","Iowa St.","11/06/04","463","Nebraska","Home"
-"311","Iowa St.","10/09/04","697","Texas A&M","Home"
-"311","Iowa St.","10/23/04","51","Baylor","Away"
-"311","Iowa St.","11/20/04","327","Kansas St.","Away"
-"311","Iowa St.","10/30/04","328","Kansas","Home"
-"312","Iowa","11/20/04","796","Wisconsin","Home"
-"312","Iowa","01/01/05","365","LSU","Neutral Site"
-"312","Iowa","10/02/04","416","Michigan St.","Home"
-"312","Iowa","09/04/04","331","Kent St.","Home"
-"312","Iowa","11/06/04","559","Purdue","Home"
-"312","Iowa","10/30/04","301","Illinois","Away"
-"312","Iowa","09/25/04","418","Michigan","Away"
-"312","Iowa","11/13/04","428","Minnesota","Away"
-"312","Iowa","10/23/04","539","Penn St.","Away"
-"312","Iowa","09/18/04","28","Arizona St.","Away"
-"312","Iowa","10/16/04","518","Ohio St.","Home"
-"312","Iowa","09/11/04","311","Iowa St.","Home"
-"327","Kansas St.","09/11/04","96","Fresno St.","Home"
-"327","Kansas St.","10/16/04","522","Oklahoma","Home"
-"327","Kansas St.","11/20/04","311","Iowa St.","Home"
-"327","Kansas St.","11/13/04","157","Colorado","Away"
-"327","Kansas St.","11/06/04","434","Missouri","Away"
-"327","Kansas St.","09/04/04","772","Western Ky.","Home"
-"327","Kansas St.","09/18/04","671","La.-Lafayette","Home"
-"327","Kansas St.","10/23/04","463","Nebraska","Home"
-"327","Kansas St.","10/30/04","700","Texas Tech","Home"
-"327","Kansas St.","10/02/04","697","Texas A&M","Away"
-"327","Kansas St.","10/09/04","328","Kansas","Away"
-"328","Kansas","11/20/04","434","Missouri","Away"
-"328","Kansas","10/09/04","327","Kansas St.","Home"
-"328","Kansas","11/13/04","703","Texas","Home"
-"328","Kansas","09/11/04","709","Toledo","Home"
-"328","Kansas","09/25/04","700","Texas Tech","Home"
-"328","Kansas","10/02/04","463","Nebraska","Away"
-"328","Kansas","09/04/04","719","Tulsa","Home"
-"328","Kansas","11/06/04","157","Colorado","Home"
-"328","Kansas","09/18/04","509","Northwestern","Away"
-"328","Kansas","10/23/04","522","Oklahoma","Away"
-"328","Kansas","10/30/04","311","Iowa St.","Away"
-"331","Kent St.","11/06/04","86","Buffalo","Away"
-"331","Kent St.","11/13/04","204","Eastern Mich.","Home"
-"331","Kent St.","10/30/04","519","Ohio","Home"
-"331","Kent St.","10/09/04","414","Miami (Ohio)","Away"
-"331","Kent St.","10/16/04","388","Marshall","Home"
-"331","Kent St.","09/11/04","355","Liberty","Home"
-"331","Kent St.","09/23/04","5","Akron","Home"
-"331","Kent St.","09/04/04","312","Iowa","Away"
-"331","Kent St.","09/18/04","587","Rutgers","Away"
-"331","Kent St.","10/02/04","129","Central Mich.","Away"
-"331","Kent St.","11/23/04","128","UCF","Away"
-"334","Kentucky","09/18/04","306","Indiana","Home"
-"334","Kentucky","10/02/04","519","Ohio","Home"
-"334","Kentucky","10/23/04","37","Auburn","Away"
-"334","Kentucky","10/30/04","430","Mississippi St.","Away"
-"334","Kentucky","09/05/04","367","Louisville","Away"
-"334","Kentucky","10/09/04","8","Alabama","Home"
-"334","Kentucky","11/27/04","694","Tennessee","Away"
-"334","Kentucky","10/16/04","648","South Carolina","Home"
-"334","Kentucky","11/13/04","736","Vanderbilt","Home"
-"334","Kentucky","11/06/04","257","Georgia","Home"
-"334","Kentucky","09/25/04","235","Florida","Away"
-"365","LSU","11/20/04","433","Mississippi","Home"
-"365","LSU","10/30/04","736","Vanderbilt","Home"
-"365","LSU","10/23/04","716","Troy","Home"
-"365","LSU","10/02/04","257","Georgia","Away"
-"365","LSU","10/09/04","235","Florida","Away"
-"365","LSU","01/01/05","312","Iowa","Neutral Site"
-"365","LSU","09/04/04","528","Oregon St.","Home"
-"365","LSU","11/26/04","31","Arkansas","Away"
-"365","LSU","09/25/04","430","Mississippi St.","Home"
-"365","LSU","11/13/04","8","Alabama","Home"
-"365","LSU","09/18/04","37","Auburn","Away"
-"365","LSU","09/11/04","30","Arkansas St.","Home"
-"366","Louisiana Tech","10/02/04","96","Fresno St.","Home"
-"366","Louisiana Tech","11/29/04","574","Rice","Away"
-"366","Louisiana Tech","09/18/04","415","Miami (Fla.)","Away"
-"366","Louisiana Tech","10/09/04","37","Auburn","Away"
-"366","Louisiana Tech","10/16/04","663","Southern Methodist","Away"
-"366","Louisiana Tech","09/25/04","694","Tennessee","Away"
-"366","Louisiana Tech","09/06/04","466","Nevada","Home"
-"366","Louisiana Tech","09/11/04","671","La.-Lafayette","Home"
-"366","Louisiana Tech","11/06/04","277","Hawaii","Away"
-"366","Louisiana Tech","11/13/04","719","Tulsa","Home"
-"366","Louisiana Tech","11/20/04","66","Boise St.","Away"
-"366","Louisiana Tech","10/23/04","704","UTEP","Home"
-"367","Louisville","09/25/04","457","North Carolina","Away"
-"367","Louisville","12/04/04","718","Tulane","Away"
-"367","Louisville","11/27/04","140","Cincinnati","Home"
-"367","Louisville","12/31/04","66","Boise St.","Neutral Site"
-"367","Louisville","09/11/04","725","Army","Away"
-"367","Louisville","11/10/04","698","TCU","Home"
-"367","Louisville","10/02/04","196","East Caro.","Home"
-"367","Louisville","10/22/04","651","South Fla.","Home"
-"367","Louisville","09/05/04","334","Kentucky","Home"
-"367","Louisville","10/14/04","415","Miami (Fla.)","Away"
-"367","Louisville","11/04/04","404","Memphis","Away"
-"367","Louisville","11/20/04","288","Houston","Away"
-"388","Marshall","10/23/04","86","Buffalo","Home"
-"388","Marshall","09/11/04","518","Ohio St.","Away"
-"388","Marshall","10/30/04","128","UCF","Home"
-"388","Marshall","10/09/04","519","Ohio","Away"
-"388","Marshall","09/29/04","414","Miami (Ohio)","Home"
-"388","Marshall","11/05/04","5","Akron","Away"
-"388","Marshall","09/04/04","716","Troy","Home"
-"388","Marshall","09/18/04","257","Georgia","Away"
-"388","Marshall","10/16/04","331","Kent St.","Away"
-"388","Marshall","12/23/04","140","Cincinnati","Neutral Site"
-"388","Marshall","11/20/04","774","Western Mich.","Home"
-"388","Marshall","11/13/04","71","Bowling Green","Away"
-"392","Maryland","10/16/04","490","North Carolina St.","Home"
-"392","Maryland","10/30/04","234","Florida St.","Home"
-"392","Maryland","11/06/04","746","Virginia","Away"
-"392","Maryland","09/18/04","768","West Virginia","Away"
-"392","Maryland","09/11/04","690","Temple","Home"
-"392","Maryland","09/04/04","503","Northern Ill.","Home"
-"392","Maryland","11/27/04","749","Wake Forest","Home"
-"392","Maryland","11/18/04","742","Virginia Tech","Away"
-"392","Maryland","10/23/04","147","Clemson","Away"
-"392","Maryland","10/09/04","255","Georgia Tech","Home"
-"392","Maryland","09/25/04","193","Duke","Away"
-"404","Memphis","11/20/04","196","East Caro.","Away"
-"404","Memphis","09/11/04","693","Chattanooga","Home"
-"404","Memphis","11/04/04","367","Louisville","Home"
-"404","Memphis","09/25/04","9","UAB","Away"
-"404","Memphis","09/18/04","30","Arkansas St.","Away"
-"404","Memphis","10/02/04","288","Houston","Home"
-"404","Memphis","11/27/04","651","South Fla.","Away"
-"404","Memphis","09/04/04","433","Mississippi","Away"
-"404","Memphis","10/23/04","140","Cincinnati","Away"
-"404","Memphis","10/16/04","718","Tulane","Home"
-"404","Memphis","11/12/04","664","Southern Miss.","Home"
-"404","Memphis","12/22/04","71","Bowling Green","Neutral Site"
-"414","Miami (Ohio)","12/02/04","709","Toledo","Neutral Site"
-"414","Miami (Ohio)","11/13/04","774","Western Mich.","Away"
-"414","Miami (Ohio)","10/09/04","331","Kent St.","Home"
-"414","Miami (Ohio)","09/11/04","140","Cincinnati","Away"
-"414","Miami (Ohio)","11/02/04","709","Toledo","Home"
-"414","Miami (Ohio)","10/16/04","86","Buffalo","Away"
-"414","Miami (Ohio)","10/23/04","128","UCF","Home"
-"414","Miami (Ohio)","09/04/04","418","Michigan","Away"
-"414","Miami (Ohio)","09/29/04","388","Marshall","Away"
-"414","Miami (Ohio)","11/20/04","5","Akron","Away"
-"414","Miami (Ohio)","09/18/04","519","Ohio","Home"
-"414","Miami (Ohio)","12/28/04","311","Iowa St.","Away"
-"414","Miami (Ohio)","08/28/04","305","Indiana St.","Home"
-"415","Miami (Fla.)","11/06/04","147","Clemson","Home"
-"415","Miami (Fla.)","10/14/04","367","Louisville","Home"
-"415","Miami (Fla.)","09/18/04","366","Louisiana Tech","Home"
-"415","Miami (Fla.)","09/23/04","288","Houston","Away"
-"415","Miami (Fla.)","10/02/04","255","Georgia Tech","Away"
-"415","Miami (Fla.)","10/23/04","490","North Carolina St.","Away"
-"415","Miami (Fla.)","12/31/04","235","Florida","Neutral Site"
-"415","Miami (Fla.)","11/20/04","749","Wake Forest","Home"
-"415","Miami (Fla.)","11/13/04","746","Virginia","Away"
-"415","Miami (Fla.)","12/04/04","742","Virginia Tech","Home"
-"415","Miami (Fla.)","09/10/04","234","Florida St.","Home"
-"415","Miami (Fla.)","10/30/04","457","North Carolina","Away"
-"416","Michigan St.","11/13/04","796","Wisconsin","Home"
-"416","Michigan St.","12/04/04","277","Hawaii","Away"
-"416","Michigan St.","09/11/04","129","Central Mich.","Home"
-"416","Michigan St.","10/02/04","312","Iowa","Away"
-"416","Michigan St.","11/20/04","539","Penn St.","Away"
-"416","Michigan St.","10/16/04","428","Minnesota","Home"
-"416","Michigan St.","10/30/04","418","Michigan","Away"
-"416","Michigan St.","11/06/04","518","Ohio St.","Home"
-"416","Michigan St.","09/18/04","513","Notre Dame","Home"
-"416","Michigan St.","09/25/04","306","Indiana","Away"
-"416","Michigan St.","10/09/04","301","Illinois","Home"
-"416","Michigan St.","09/04/04","587","Rutgers","Away"
-"418","Michigan","10/23/04","559","Purdue","Away"
-"418","Michigan","10/16/04","301","Illinois","Away"
-"418","Michigan","09/18/04","626","San Diego St.","Home"
-"418","Michigan","10/09/04","428","Minnesota","Home"
-"418","Michigan","09/04/04","414","Miami (Ohio)","Home"
-"418","Michigan","11/20/04","518","Ohio St.","Away"
-"418","Michigan","09/11/04","513","Notre Dame","Away"
-"418","Michigan","11/13/04","509","Northwestern","Home"
-"418","Michigan","09/25/04","312","Iowa","Home"
-"418","Michigan","10/02/04","306","Indiana","Away"
-"418","Michigan","01/01/05","703","Texas","Neutral Site"
-"418","Michigan","10/30/04","416","Michigan St.","Home"
-"419","Middle Tenn. St.","10/02/04","497","North Texas","Away"
-"419","Middle Tenn. St.","10/30/04","731","Utah St.","Home"
-"419","Middle Tenn. St.","11/20/04","716","Troy","Away"
-"419","Middle Tenn. St.","11/06/04","472","New Mexico St.","Away"
-"419","Middle Tenn. St.","09/25/04","671","La.-Lafayette","Away"
-"419","Middle Tenn. St.","10/16/04","235","Florida","Away"
-"419","Middle Tenn. St.","11/13/04","498","La.-Monroe","Home"
-"419","Middle Tenn. St.","10/23/04","295","Idaho","Home"
-"419","Middle Tenn. St.","10/09/04","30","Arkansas St.","Home"
-"419","Middle Tenn. St.","09/11/04","5","Akron","Away"
-"419","Middle Tenn. St.","09/18/04","229","Fla. Atlantic","Home"
-"428","Minnesota","09/18/04","156","Colorado St.","Away"
-"428","Minnesota","10/23/04","301","Illinois","Home"
-"428","Minnesota","09/11/04","299","Illinois St.","Home"
-"428","Minnesota","10/09/04","418","Michigan","Away"
-"428","Minnesota","12/31/04","8","Alabama","Neutral Site"
-"428","Minnesota","10/02/04","539","Penn St.","Home"
-"428","Minnesota","09/25/04","509","Northwestern","Home"
-"428","Minnesota","11/13/04","312","Iowa","Home"
-"428","Minnesota","10/30/04","306","Indiana","Away"
-"428","Minnesota","09/04/04","709","Toledo","Home"
-"428","Minnesota","11/06/04","796","Wisconsin","Away"
-"428","Minnesota","10/16/04","416","Michigan St.","Away"
-"430","Mississippi St.","11/27/04","433","Mississippi","Away"
-"430","Mississippi St.","10/02/04","736","Vanderbilt","Away"
-"430","Mississippi St.","09/04/04","718","Tulane","Home"
-"430","Mississippi St.","09/25/04","365","LSU","Away"
-"430","Mississippi St.","10/23/04","235","Florida","Home"
-"430","Mississippi St.","11/20/04","31","Arkansas","Home"
-"430","Mississippi St.","09/18/04","380","Maine","Home"
-"430","Mississippi St.","09/11/04","37","Auburn","Home"
-"430","Mississippi St.","11/06/04","8","Alabama","Away"
-"430","Mississippi St.","10/30/04","334","Kentucky","Home"
-"430","Mississippi St.","10/09/04","9","UAB","Home"
-"433","Mississippi","10/02/04","30","Arkansas St.","Home"
-"433","Mississippi","11/13/04","31","Arkansas","Away"
-"433","Mississippi","11/27/04","430","Mississippi St.","Home"
-"433","Mississippi","09/04/04","404","Memphis","Home"
-"433","Mississippi","09/11/04","8","Alabama","Away"
-"433","Mississippi","10/30/04","37","Auburn","Home"
-"433","Mississippi","10/16/04","694","Tennessee","Home"
-"433","Mississippi","11/20/04","365","LSU","Away"
-"433","Mississippi","09/25/04","811","Wyoming","Away"
-"433","Mississippi","10/09/04","648","South Carolina","Away"
-"433","Mississippi","09/18/04","736","Vanderbilt","Home"
-"434","Missouri","11/06/04","327","Kansas St.","Home"
-"434","Missouri","09/18/04","47","Ball St.","Home"
-"434","Missouri","10/09/04","51","Baylor","Away"
-"434","Missouri","10/30/04","463","Nebraska","Away"
-"434","Missouri","09/09/04","716","Troy","Away"
-"434","Missouri","11/20/04","328","Kansas","Home"
-"434","Missouri","10/16/04","703","Texas","Away"
-"434","Missouri","10/02/04","157","Colorado","Home"
-"434","Missouri","09/04/04","30","Arkansas St.","Home"
-"434","Missouri","10/23/04","521","Oklahoma St.","Home"
-"434","Missouri","11/27/04","311","Iowa St.","Away"
-"457","North Carolina","11/20/04","193","Duke","Away"
-"457","North Carolina","09/18/04","255","Georgia Tech","Home"
-"457","North Carolina","10/30/04","415","Miami (Fla.)","Home"
-"457","North Carolina","09/25/04","367","Louisville","Home"
-"457","North Carolina","10/09/04","490","North Carolina St.","Home"
-"457","North Carolina","10/02/04","234","Florida St.","Away"
-"457","North Carolina","12/30/04","67","Boston College","Neutral Site"
-"457","North Carolina","09/04/04","786","William & Mary","Home"
-"457","North Carolina","11/13/04","749","Wake Forest","Away"
-"457","North Carolina","09/11/04","746","Virginia","Away"
-"457","North Carolina","11/06/04","742","Virginia Tech","Home"
-"457","North Carolina","10/16/04","732","Utah","Away"
-"463","Nebraska","10/30/04","434","Missouri","Home"
-"463","Nebraska","10/09/04","700","Texas Tech","Away"
-"463","Nebraska","10/02/04","328","Kansas","Home"
-"463","Nebraska","10/23/04","327","Kansas St.","Away"
-"463","Nebraska","09/11/04","664","Southern Miss.","Home"
-"463","Nebraska","10/16/04","51","Baylor","Home"
-"463","Nebraska","09/04/04","771","Western Ill.","Home"
-"463","Nebraska","11/26/04","157","Colorado","Home"
-"463","Nebraska","09/18/04","545","Pittsburgh","Away"
-"463","Nebraska","11/13/04","522","Oklahoma","Away"
-"463","Nebraska","11/06/04","311","Iowa St.","Away"
-"465","UNLV","10/08/04","77","Brigham Young","Away"
-"465","UNLV","11/13/04","156","Colorado St.","Away"
-"465","UNLV","11/20/04","626","San Diego St.","Away"
-"465","UNLV","10/16/04","473","New Mexico","Home"
-"465","UNLV","10/23/04","732","Utah","Away"
-"465","UNLV","09/25/04","731","Utah St.","Home"
-"465","UNLV","10/02/04","466","Nevada","Home"
-"465","UNLV","09/11/04","796","Wisconsin","Away"
-"465","UNLV","11/06/04","811","Wyoming","Home"
-"465","UNLV","09/05/04","694","Tennessee","Away"
-"465","UNLV","09/18/04","721","Air Force","Home"
-"466","Nevada","10/02/04","465","UNLV","Away"
-"466","Nevada","11/06/04","630","San Jose St.","Home"
-"466","Nevada","10/23/04","719","Tulsa","Home"
-"466","Nevada","10/09/04","277","Hawaii","Away"
-"466","Nevada","11/27/04","66","Boise St.","Home"
-"466","Nevada","09/18/04","86","Buffalo","Home"
-"466","Nevada","10/16/04","574","Rice","Home"
-"466","Nevada","11/13/04","663","Southern Methodist","Away"
-"466","Nevada","09/06/04","366","Louisiana Tech","Away"
-"466","Nevada","09/25/04","626","San Diego St.","Away"
-"466","Nevada","09/11/04","102","Sacramento St.","Home"
-"466","Nevada","11/20/04","96","Fresno St.","Away"
-"472","New Mexico St.","09/11/04","107","California","Away"
-"472","New Mexico St.","10/30/04","231","Florida Int'l","Home"
-"472","New Mexico St.","11/13/04","229","Fla. Atlantic","Away"
-"472","New Mexico St.","11/06/04","419","Middle Tenn. St.","Home"
-"472","New Mexico St.","09/04/04","31","Arkansas","Away"
-"472","New Mexico St.","09/25/04","473","New Mexico","Home"
-"472","New Mexico St.","10/09/04","671","La.-Lafayette","Home"
-"472","New Mexico St.","11/20/04","731","Utah St.","Away"
-"472","New Mexico St.","09/18/04","716","Troy","Home"
-"472","New Mexico St.","10/02/04","704","UTEP","Away"
-"472","New Mexico St.","10/23/04","497","North Texas","Away"
-"473","New Mexico","10/16/04","465","UNLV","Away"
-"473","New Mexico","11/20/04","811","Wyoming","Home"
-"473","New Mexico","09/03/04","754","Washington St.","Home"
-"473","New Mexico","09/25/04","472","New Mexico St.","Away"
-"473","New Mexico","10/01/04","732","Utah","Home"
-"473","New Mexico","12/30/04","726","Navy","Neutral Site"
-"473","New Mexico","09/11/04","700","Texas Tech","Home"
-"473","New Mexico","10/09/04","721","Air Force","Away"
-"473","New Mexico","11/13/04","77","Brigham Young","Away"
-"473","New Mexico","09/18/04","528","Oregon St.","Away"
-"473","New Mexico","10/23/04","626","San Diego St.","Home"
-"473","New Mexico","10/30/04","156","Colorado St.","Away"
-"490","North Carolina St.","10/30/04","147","Clemson","Away"
-"490","North Carolina St.","09/04/04","575","Richmond","Home"
-"490","North Carolina St.","09/18/04","518","Ohio St.","Home"
-"490","North Carolina St.","10/16/04","392","Maryland","Away"
-"490","North Carolina St.","10/23/04","415","Miami (Fla.)","Home"
-"490","North Carolina St.","11/06/04","255","Georgia Tech","Home"
-"490","North Carolina St.","11/27/04","196","East Caro.","Neutral Site"
-"490","North Carolina St.","10/09/04","457","North Carolina","Away"
-"490","North Carolina St.","11/11/04","234","Florida St.","Home"
-"490","North Carolina St.","10/02/04","749","Wake Forest","Home"
-"490","North Carolina St.","09/25/04","742","Virginia Tech","Away"
-"497","North Texas","10/30/04","498","La.-Monroe","Home"
-"497","North Texas","09/04/04","703","Texas","Away"
-"497","North Texas","10/23/04","472","New Mexico St.","Home"
-"497","North Texas","11/05/04","671","La.-Lafayette","Away"
-"497","North Texas","12/14/04","664","Southern Miss.","Neutral Site"
-"497","North Texas","09/25/04","51","Baylor","Away"
-"497","North Texas","10/09/04","731","Utah St.","Away"
-"497","North Texas","09/18/04","157","Colorado","Away"
-"497","North Texas","10/02/04","419","Middle Tenn. St.","Home"
-"497","North Texas","09/11/04","229","Fla. Atlantic","Home"
-"497","North Texas","11/18/04","30","Arkansas St.","Away"
-"497","North Texas","11/13/04","295","Idaho","Home"
-"498","La.-Monroe","10/16/04","231","Florida Int'l","Home"
-"498","La.-Monroe","11/13/04","419","Middle Tenn. St.","Away"
-"498","La.-Monroe","10/23/04","229","Fla. Atlantic","Away"
-"498","La.-Monroe","09/04/04","37","Auburn","Away"
-"498","La.-Monroe","09/18/04","31","Arkansas","Neutral Site"
-"498","La.-Monroe","09/25/04","30","Arkansas St.","Home"
-"498","La.-Monroe","10/09/04","295","Idaho","Away"
-"498","La.-Monroe","10/30/04","497","North Texas","Away"
-"498","La.-Monroe","11/06/04","731","Utah St.","Home"
-"498","La.-Monroe","10/02/04","811","Wyoming","Away"
-"498","La.-Monroe","11/20/04","671","La.-Lafayette","Home"
-"503","Northern Ill.","11/09/04","709","Toledo","Home"
-"503","Northern Ill.","12/30/04","716","Troy","Neutral Site"
-"503","Northern Ill.","10/23/04","774","Western Mich.","Away"
-"503","Northern Ill.","10/30/04","47","Ball St.","Away"
-"503","Northern Ill.","09/24/04","71","Bowling Green","Home"
-"503","Northern Ill.","10/09/04","128","UCF","Away"
-"503","Northern Ill.","11/20/04","204","Eastern Mich.","Away"
-"503","Northern Ill.","09/11/04","659","Southern Ill.","Home"
-"503","Northern Ill.","09/18/04","311","Iowa St.","Away"
-"503","Northern Ill.","09/04/04","392","Maryland","Away"
-"503","Northern Ill.","10/02/04","5","Akron","Home"
-"503","Northern Ill.","10/16/04","129","Central Mich.","Home"
-"509","Northwestern","10/30/04","559","Purdue","Home"
-"509","Northwestern","10/09/04","306","Indiana","Home"
-"509","Northwestern","09/25/04","428","Minnesota","Away"
-"509","Northwestern","11/13/04","418","Michigan","Away"
-"509","Northwestern","11/06/04","539","Penn St.","Away"
-"509","Northwestern","09/11/04","28","Arizona St.","Home"
-"509","Northwestern","10/02/04","518","Ohio St.","Home"
-"509","Northwestern","11/20/04","301","Illinois","Home"
-"509","Northwestern","09/18/04","328","Kansas","Home"
-"509","Northwestern","09/02/04","698","TCU","Away"
-"509","Northwestern","11/27/04","277","Hawaii","Away"
-"509","Northwestern","10/23/04","796","Wisconsin","Away"
-"513","Notre Dame","11/06/04","694","Tennessee","Away"
-"513","Notre Dame","09/25/04","756","Washington","Home"
-"513","Notre Dame","09/18/04","416","Michigan St.","Away"
-"513","Notre Dame","10/23/04","67","Boston College","Home"
-"513","Notre Dame","10/16/04","726","Navy","Neutral Site"
-"513","Notre Dame","09/04/04","77","Brigham Young","Away"
-"513","Notre Dame","09/11/04","418","Michigan","Home"
-"513","Notre Dame","12/28/04","528","Oregon St.","Neutral Site"
-"513","Notre Dame","10/09/04","674","Stanford","Home"
-"513","Notre Dame","11/27/04","657","Southern California","Away"
-"513","Notre Dame","10/02/04","559","Purdue","Home"
-"513","Notre Dame","11/13/04","545","Pittsburgh","Home"
-"518","Ohio St.","11/13/04","559","Purdue","Away"
-"518","Ohio St.","10/02/04","509","Northwestern","Away"
-"518","Ohio St.","10/30/04","539","Penn St.","Home"
-"518","Ohio St.","11/20/04","418","Michigan","Home"
-"518","Ohio St.","09/11/04","388","Marshall","Home"
-"518","Ohio St.","12/29/04","521","Oklahoma St.","Neutral Site"
-"518","Ohio St.","10/16/04","312","Iowa","Away"
-"518","Ohio St.","10/23/04","306","Indiana","Home"
-"518","Ohio St.","09/18/04","490","North Carolina St.","Away"
-"518","Ohio St.","09/04/04","140","Cincinnati","Home"
-"518","Ohio St.","11/06/04","416","Michigan St.","Away"
-"518","Ohio St.","10/09/04","796","Wisconsin","Home"
-"519","Ohio","10/16/04","709","Toledo","Away"
-"519","Ohio","10/30/04","331","Kent St.","Away"
-"519","Ohio","10/23/04","71","Bowling Green","Home"
-"519","Ohio","09/04/04","741","VMI","Home"
-"519","Ohio","09/25/04","86","Buffalo","Home"
-"519","Ohio","09/18/04","414","Miami (Ohio)","Away"
-"519","Ohio","10/09/04","388","Marshall","Home"
-"519","Ohio","10/02/04","334","Kentucky","Away"
-"519","Ohio","09/11/04","545","Pittsburgh","Away"
-"519","Ohio","11/13/04","5","Akron","Home"
-"519","Ohio","11/06/04","128","UCF","Away"
-"521","Oklahoma St.","10/09/04","157","Colorado","Away"
-"521","Oklahoma St.","10/30/04","522","Oklahoma","Home"
-"521","Oklahoma St.","12/29/04","518","Ohio St.","Neutral Site"
-"521","Oklahoma St.","10/02/04","311","Iowa St.","Home"
-"521","Oklahoma St.","09/18/04","663","Southern Methodist","Home"
-"521","Oklahoma St.","10/23/04","434","Missouri","Away"
-"521","Oklahoma St.","09/11/04","719","Tulsa","Home"
-"521","Oklahoma St.","09/04/04","110","UCLA","Away"
-"521","Oklahoma St.","11/06/04","703","Texas","Away"
-"521","Oklahoma St.","11/13/04","51","Baylor","Home"
-"521","Oklahoma St.","11/27/04","700","Texas Tech","Away"
-"521","Oklahoma St.","10/16/04","697","Texas A&M","Home"
-"522","Oklahoma","10/16/04","327","Kansas St.","Away"
-"522","Oklahoma","11/13/04","463","Nebraska","Home"
-"522","Oklahoma","09/04/04","71","Bowling Green","Home"
-"522","Oklahoma","11/20/04","51","Baylor","Away"
-"522","Oklahoma","10/09/04","703","Texas","Neutral Site"
-"522","Oklahoma","10/02/04","700","Texas Tech","Home"
-"522","Oklahoma","11/06/04","697","Texas A&M","Away"
-"522","Oklahoma","10/23/04","328","Kansas","Home"
-"522","Oklahoma","12/04/04","157","Colorado","Neutral Site"
-"522","Oklahoma","09/11/04","288","Houston","Home"
-"522","Oklahoma","10/30/04","521","Oklahoma St.","Away"
-"522","Oklahoma","09/18/04","529","Oregon","Home"
-"522","Oklahoma","01/04/05","657","Southern California","Neutral Site"
-"528","Oregon St.","10/02/04","107","California","Home"
-"528","Oregon St.","10/30/04","29","Arizona","Away"
-"528","Oregon St.","09/25/04","28","Arizona St.","Away"
-"528","Oregon St.","11/20/04","529","Oregon","Home"
-"528","Oregon St.","12/28/04","513","Notre Dame","Neutral Site"
-"528","Oregon St.","11/13/04","674","Stanford","Away"
-"528","Oregon St.","11/06/04","657","Southern California","Home"
-"528","Oregon St.","09/18/04","473","New Mexico","Home"
-"528","Oregon St.","09/04/04","365","LSU","Away"
-"528","Oregon St.","10/23/04","754","Washington St.","Home"
-"528","Oregon St.","09/10/04","66","Boise St.","Away"
-"528","Oregon St.","10/16/04","756","Washington","Away"
-"529","Oregon","11/13/04","110","UCLA","Home"
-"529","Oregon","10/30/04","756","Washington","Home"
-"529","Oregon","10/09/04","754","Washington St.","Away"
-"529","Oregon","11/06/04","107","California","Away"
-"529","Oregon","10/16/04","29","Arizona","Home"
-"529","Oregon","10/02/04","28","Arizona St.","Home"
-"529","Oregon","11/20/04","528","Oregon St.","Away"
-"529","Oregon","09/18/04","522","Oklahoma","Away"
-"529","Oregon","09/11/04","306","Indiana","Home"
-"529","Oregon","09/25/04","295","Idaho","Home"
-"529","Oregon","10/23/04","674","Stanford","Away"
-"539","Penn St.","09/18/04","128","UCF","Home"
-"539","Penn St.","10/02/04","428","Minnesota","Away"
-"539","Penn St.","09/04/04","5","Akron","Home"
-"539","Penn St.","10/30/04","518","Ohio St.","Away"
-"539","Penn St.","11/06/04","509","Northwestern","Home"
-"539","Penn St.","10/23/04","312","Iowa","Home"
-"539","Penn St.","11/13/04","306","Indiana","Away"
-"539","Penn St.","10/09/04","559","Purdue","Home"
-"539","Penn St.","09/25/04","796","Wisconsin","Away"
-"539","Penn St.","11/20/04","416","Michigan St.","Home"
-"539","Penn St.","09/11/04","67","Boston College","Away"
-"545","Pittsburgh","01/01/05","732","Utah","Neutral Site"
-"545","Pittsburgh","11/25/04","768","West Virginia","Home"
-"545","Pittsburgh","10/09/04","690","Temple","Away"
-"545","Pittsburgh","09/18/04","463","Nebraska","Home"
-"545","Pittsburgh","10/16/04","67","Boston College","Home"
-"545","Pittsburgh","09/30/04","164","Connecticut","Away"
-"545","Pittsburgh","10/23/04","587","Rutgers","Home"
-"545","Pittsburgh","12/04/04","651","South Fla.","Away"
-"545","Pittsburgh","09/11/04","519","Ohio","Home"
-"545","Pittsburgh","09/25/04","244","Furman","Home"
-"545","Pittsburgh","11/13/04","513","Notre Dame","Away"
-"545","Pittsburgh","11/06/04","688","Syracuse","Away"
-"559","Purdue","09/05/04","688","Syracuse","Home"
-"559","Purdue","10/23/04","418","Michigan","Home"
-"559","Purdue","12/31/04","28","Arizona St.","Neutral Site"
-"559","Purdue","10/09/04","539","Penn St.","Away"
-"559","Purdue","11/13/04","518","Ohio St.","Home"
-"559","Purdue","10/02/04","513","Notre Dame","Away"
-"559","Purdue","10/30/04","509","Northwestern","Away"
-"559","Purdue","09/25/04","301","Illinois","Away"
-"559","Purdue","11/06/04","312","Iowa","Away"
-"559","Purdue","11/20/04","306","Indiana","Home"
-"559","Purdue","10/16/04","796","Wisconsin","Home"
-"559","Purdue","09/11/04","47","Ball St.","Home"
-"574","Rice","09/25/04","703","Texas","Away"
-"574","Rice","09/18/04","277","Hawaii","Home"
-"574","Rice","10/02/04","630","San Jose St.","Away"
-"574","Rice","10/16/04","466","Nevada","Away"
-"574","Rice","10/30/04","719","Tulsa","Away"
-"574","Rice","11/13/04","704","UTEP","Away"
-"574","Rice","10/23/04","726","Navy","Away"
-"574","Rice","11/06/04","96","Fresno St.","Home"
-"574","Rice","10/09/04","663","Southern Methodist","Home"
-"574","Rice","11/29/04","366","Louisiana Tech","Home"
-"574","Rice","09/05/04","288","Houston","Home"
-"587","Rutgers","11/25/04","164","Connecticut","Home"
-"587","Rutgers","10/23/04","545","Pittsburgh","Away"
-"587","Rutgers","10/02/04","688","Syracuse","Away"
-"587","Rutgers","11/20/04","726","Navy","Away"
-"587","Rutgers","10/16/04","690","Temple","Home"
-"587","Rutgers","10/09/04","736","Vanderbilt","Away"
-"587","Rutgers","09/11/04","469","New Hampshire","Home"
-"587","Rutgers","11/06/04","67","Boston College","Away"
-"587","Rutgers","09/18/04","331","Kent St.","Home"
-"587","Rutgers","09/04/04","416","Michigan St.","Home"
-"587","Rutgers","10/30/04","768","West Virginia","Home"
-"626","San Diego St.","10/23/04","473","New Mexico","Away"
-"626","San Diego St.","09/25/04","466","Nevada","Home"
-"626","San Diego St.","10/02/04","110","UCLA","Away"
-"626","San Diego St.","10/09/04","811","Wyoming","Away"
-"626","San Diego St.","10/30/04","732","Utah","Home"
-"626","San Diego St.","11/13/04","721","Air Force","Away"
-"626","San Diego St.","11/20/04","465","UNLV","Home"
-"626","San Diego St.","11/06/04","77","Brigham Young","Away"
-"626","San Diego St.","09/04/04","294","Idaho St.","Home"
-"626","San Diego St.","09/18/04","418","Michigan","Away"
-"626","San Diego St.","10/16/04","156","Colorado St.","Home"
-"630","San Jose St.","11/27/04","96","Fresno St.","Home"
-"630","San Jose St.","10/02/04","574","Rice","Home"
-"630","San Jose St.","09/04/04","674","Stanford","Away"
-"630","San Jose St.","09/25/04","663","Southern Methodist","Away"
-"630","San Jose St.","09/18/04","446","Morgan St.","Home"
-"630","San Jose St.","10/23/04","277","Hawaii","Away"
-"630","San Jose St.","10/09/04","756","Washington","Away"
-"630","San Jose St.","11/06/04","466","Nevada","Away"
-"630","San Jose St.","11/13/04","66","Boise St.","Home"
-"630","San Jose St.","11/20/04","719","Tulsa","Away"
-"630","San Jose St.","10/30/04","704","UTEP","Home"
-"648","South Carolina","10/09/04","433","Mississippi","Home"
-"648","South Carolina","10/30/04","694","Tennessee","Home"
-"648","South Carolina","09/25/04","716","Troy","Home"
-"648","South Carolina","09/04/04","736","Vanderbilt","Away"
-"648","South Carolina","09/11/04","257","Georgia","Home"
-"648","South Carolina","11/13/04","235","Florida","Away"
-"648","South Carolina","11/20/04","147","Clemson","Away"
-"648","South Carolina","10/02/04","8","Alabama","Away"
-"648","South Carolina","10/16/04","334","Kentucky","Away"
-"648","South Carolina","09/18/04","651","South Fla.","Home"
-"648","South Carolina","11/06/04","31","Arkansas","Home"
-"651","South Fla.","11/13/04","196","East Caro.","Home"
-"651","South Fla.","11/27/04","404","Memphis","Home"
-"651","South Fla.","10/22/04","367","Louisville","Away"
-"651","South Fla.","11/03/04","9","UAB","Away"
-"651","South Fla.","09/11/04","692","Tennessee Tech","Home"
-"651","South Fla.","12/04/04","545","Pittsburgh","Home"
-"651","South Fla.","09/25/04","698","TCU","Away"
-"651","South Fla.","10/02/04","664","Southern Miss.","Home"
-"651","South Fla.","09/18/04","648","South Carolina","Away"
-"651","South Fla.","11/20/04","140","Cincinnati","Away"
-"651","South Fla.","10/16/04","725","Army","Home"
-"657","Southern California","08/28/04","742","Virginia Tech","Neutral Site"
-"657","Southern California","10/30/04","754","Washington St.","Away"
-"657","Southern California","12/04/04","110","UCLA","Away"
-"657","Southern California","10/23/04","756","Washington","Home"
-"657","Southern California","09/18/04","77","Brigham Young","Away"
-"657","Southern California","09/25/04","674","Stanford","Away"
-"657","Southern California","01/04/05","522","Oklahoma","Neutral Site"
-"657","Southern California","10/16/04","28","Arizona St.","Home"
-"657","Southern California","11/13/04","29","Arizona","Home"
-"657","Southern California","11/06/04","528","Oregon St.","Away"
-"657","Southern California","11/27/04","513","Notre Dame","Home"
-"657","Southern California","10/09/04","107","California","Home"
-"657","Southern California","09/11/04","156","Colorado St.","Home"
-"663","Southern Methodist","10/30/04","96","Fresno St.","Away"
-"663","Southern Methodist","10/09/04","574","Rice","Away"
-"663","Southern Methodist","10/16/04","366","Louisiana Tech","Home"
-"663","Southern Methodist","09/18/04","521","Oklahoma St.","Away"
-"663","Southern Methodist","09/11/04","698","TCU","Away"
-"663","Southern Methodist","09/04/04","700","Texas Tech","Home"
-"663","Southern Methodist","11/20/04","704","UTEP","Away"
-"663","Southern Methodist","11/06/04","719","Tulsa","Home"
-"663","Southern Methodist","11/13/04","466","Nevada","Home"
-"663","Southern Methodist","09/25/04","630","San Jose St.","Home"
-"663","Southern Methodist","10/02/04","66","Boise St.","Away"
-"664","Southern Miss.","12/14/04","497","North Texas","Neutral Site"
-"664","Southern Miss.","11/06/04","140","Cincinnati","Home"
-"664","Southern Miss.","09/11/04","463","Nebraska","Away"
-"664","Southern Miss.","09/25/04","718","Tulane","Away"
-"664","Southern Miss.","11/20/04","698","TCU","Away"
-"664","Southern Miss.","12/04/04","107","California","Home"
-"664","Southern Miss.","10/02/04","651","South Fla.","Away"
-"664","Southern Miss.","10/07/04","288","Houston","Home"
-"664","Southern Miss.","10/23/04","196","East Caro.","Home"
-"664","Southern Miss.","11/27/04","9","UAB","Home"
-"664","Southern Miss.","11/12/04","404","Memphis","Away"
-"664","Southern Miss.","10/16/04","8","Alabama","Away"
-"671","La.-Lafayette","10/02/04","231","Florida Int'l","Away"
-"671","La.-Lafayette","09/04/04","508","Northwestern St.","Home"
-"671","La.-Lafayette","09/25/04","419","Middle Tenn. St.","Home"
-"671","La.-Lafayette","09/11/04","366","Louisiana Tech","Away"
-"671","La.-Lafayette","10/23/04","30","Arkansas St.","Home"
-"671","La.-Lafayette","10/16/04","295","Idaho","Away"
-"671","La.-Lafayette","09/18/04","327","Kansas St.","Away"
-"671","La.-Lafayette","11/05/04","497","North Texas","Home"
-"671","La.-Lafayette","10/09/04","472","New Mexico St.","Away"
-"671","La.-Lafayette","11/13/04","716","Troy","Home"
-"671","La.-Lafayette","11/20/04","498","La.-Monroe","Away"
-"674","Stanford","10/30/04","110","UCLA","Away"
-"674","Stanford","10/16/04","754","Washington St.","Away"
-"674","Stanford","10/02/04","756","Washington","Home"
-"674","Stanford","09/04/04","630","San Jose St.","Home"
-"674","Stanford","09/11/04","77","Brigham Young","Home"
-"674","Stanford","11/06/04","28","Arizona St.","Away"
-"674","Stanford","10/23/04","529","Oregon","Home"
-"674","Stanford","11/13/04","528","Oregon St.","Home"
-"674","Stanford","10/09/04","513","Notre Dame","Away"
-"674","Stanford","09/25/04","657","Southern California","Home"
-"674","Stanford","11/20/04","107","California","Away"
-"688","Syracuse","09/11/04","86","Buffalo","Away"
-"688","Syracuse","11/06/04","545","Pittsburgh","Home"
-"688","Syracuse","10/02/04","587","Rutgers","Home"
-"688","Syracuse","09/05/04","559","Purdue","Away"
-"688","Syracuse","12/21/04","255","Georgia Tech","Away"
-"688","Syracuse","10/30/04","164","Connecticut","Home"
-"688","Syracuse","10/09/04","234","Florida St.","Home"
-"688","Syracuse","11/27/04","67","Boston College","Away"
-"688","Syracuse","09/25/04","746","Virginia","Away"
-"688","Syracuse","10/21/04","768","West Virginia","Away"
-"688","Syracuse","11/13/04","690","Temple","Away"
-"688","Syracuse","09/18/04","140","Cincinnati","Home"
-"690","Temple","09/25/04","709","Toledo","Away"
-"690","Temple","11/20/04","67","Boston College","Home"
-"690","Temple","11/06/04","768","West Virginia","Away"
-"690","Temple","09/18/04","228","Florida A&M","Home"
-"690","Temple","10/02/04","71","Bowling Green","Home"
-"690","Temple","09/04/04","746","Virginia","Home"
-"690","Temple","10/23/04","164","Connecticut","Away"
-"690","Temple","10/09/04","545","Pittsburgh","Home"
-"690","Temple","09/11/04","392","Maryland","Away"
-"690","Temple","11/13/04","688","Syracuse","Home"
-"690","Temple","10/16/04","587","Rutgers","Away"
-"694","Tennessee","11/06/04","513","Notre Dame","Home"
-"694","Tennessee","10/23/04","8","Alabama","Home"
-"694","Tennessee","12/04/04","37","Auburn","Neutral Site"
-"694","Tennessee","10/02/04","37","Auburn","Home"
-"694","Tennessee","11/27/04","334","Kentucky","Home"
-"694","Tennessee","09/25/04","366","Louisiana Tech","Home"
-"694","Tennessee","10/16/04","433","Mississippi","Away"
-"694","Tennessee","01/01/05","697","Texas A&M","Neutral Site"
-"694","Tennessee","09/05/04","465","UNLV","Home"
-"694","Tennessee","09/18/04","235","Florida","Home"
-"694","Tennessee","11/20/04","736","Vanderbilt","Away"
-"694","Tennessee","10/30/04","648","South Carolina","Away"
-"694","Tennessee","10/09/04","257","Georgia","Away"
-"697","Texas A&M","10/02/04","327","Kansas St.","Home"
-"697","Texas A&M","11/26/04","703","Texas","Away"
-"697","Texas A&M","01/01/05","694","Tennessee","Neutral Site"
-"697","Texas A&M","11/13/04","700","Texas Tech","Home"
-"697","Texas A&M","09/11/04","811","Wyoming","Home"
-"697","Texas A&M","10/30/04","51","Baylor","Away"
-"697","Texas A&M","09/02/04","732","Utah","Away"
-"697","Texas A&M","09/18/04","147","Clemson","Home"
-"697","Texas A&M","11/06/04","522","Oklahoma","Home"
-"697","Texas A&M","10/16/04","521","Oklahoma St.","Away"
-"697","Texas A&M","10/09/04","311","Iowa St.","Away"
-"697","Texas A&M","10/23/04","157","Colorado","Home"
-"698","TCU","09/25/04","651","South Fla.","Home"
-"698","TCU","09/11/04","663","Southern Methodist","Home"
-"698","TCU","11/10/04","367","Louisville","Away"
-"698","TCU","10/15/04","9","UAB","Away"
-"698","TCU","09/02/04","509","Northwestern","Home"
-"698","TCU","10/23/04","288","Houston","Home"
-"698","TCU","09/18/04","700","Texas Tech","Away"
-"698","TCU","11/20/04","664","Southern Miss.","Home"
-"698","TCU","11/27/04","718","Tulane","Home"
-"698","TCU","10/30/04","140","Cincinnati","Away"
-"698","TCU","10/02/04","725","Army","Away"
-"700","Texas Tech","09/11/04","473","New Mexico","Away"
-"700","Texas Tech","10/30/04","327","Kansas St.","Away"
-"700","Texas Tech","10/09/04","463","Nebraska","Home"
-"700","Texas Tech","11/06/04","51","Baylor","Home"
-"700","Texas Tech","10/23/04","703","Texas","Home"
-"700","Texas Tech","09/18/04","698","TCU","Home"
-"700","Texas Tech","11/13/04","697","Texas A&M","Away"
-"700","Texas Tech","09/25/04","328","Kansas","Away"
-"700","Texas Tech","12/30/04","107","California","Neutral Site"
-"700","Texas Tech","09/04/04","663","Southern Methodist","Away"
-"700","Texas Tech","11/27/04","521","Oklahoma St.","Home"
-"700","Texas Tech","10/02/04","522","Oklahoma","Away"
-"703","Texas","10/30/04","157","Colorado","Away"
-"703","Texas","09/25/04","574","Rice","Home"
-"703","Texas","11/06/04","521","Oklahoma St.","Home"
-"703","Texas","01/01/05","418","Michigan","Away"
-"703","Texas","09/11/04","31","Arkansas","Away"
-"703","Texas","10/09/04","522","Oklahoma","Neutral Site"
-"703","Texas","10/16/04","434","Missouri","Home"
-"703","Texas","09/04/04","497","North Texas","Home"
-"703","Texas","11/13/04","328","Kansas","Away"
-"703","Texas","10/23/04","700","Texas Tech","Away"
-"703","Texas","10/02/04","51","Baylor","Home"
-"703","Texas","11/26/04","697","Texas A&M","Home"
-"704","UTEP","11/27/04","719","Tulsa","Away"
-"704","UTEP","09/18/04","66","Boise St.","Home"
-"704","UTEP","10/02/04","472","New Mexico St.","Home"
-"704","UTEP","09/11/04","758","Weber St.","Home"
-"704","UTEP","10/30/04","630","San Jose St.","Away"
-"704","UTEP","10/16/04","277","Hawaii","Home"
-"704","UTEP","10/09/04","96","Fresno St.","Away"
-"704","UTEP","12/29/04","157","Colorado","Neutral Site"
-"704","UTEP","10/23/04","366","Louisiana Tech","Away"
-"704","UTEP","09/02/04","28","Arizona St.","Away"
-"704","UTEP","11/20/04","663","Southern Methodist","Home"
-"704","UTEP","11/13/04","574","Rice","Home"
-"709","Toledo","10/23/04","129","Central Mich.","Home"
-"709","Toledo","09/04/04","428","Minnesota","Away"
-"709","Toledo","11/02/04","414","Miami (Ohio)","Away"
-"709","Toledo","10/16/04","519","Ohio","Home"
-"709","Toledo","09/18/04","204","Eastern Mich.","Away"
-"709","Toledo","12/02/04","414","Miami (Ohio)","Neutral Site"
-"709","Toledo","12/27/04","164","Connecticut","Neutral Site"
-"709","Toledo","09/11/04","328","Kansas","Away"
-"709","Toledo","11/23/04","71","Bowling Green","Home"
-"709","Toledo","11/09/04","503","Northern Ill.","Away"
-"709","Toledo","09/25/04","690","Temple","Home"
-"709","Toledo","10/02/04","47","Ball St.","Home"
-"709","Toledo","10/09/04","774","Western Mich.","Away"
-"716","Troy","09/09/04","434","Missouri","Home"
-"716","Troy","11/13/04","671","La.-Lafayette","Away"
-"716","Troy","09/25/04","648","South Carolina","Away"
-"716","Troy","12/30/04","503","Northern Ill.","Away"
-"716","Troy","09/18/04","472","New Mexico St.","Away"
-"716","Troy","10/23/04","365","LSU","Away"
-"716","Troy","10/02/04","731","Utah St.","Home"
-"716","Troy","10/30/04","295","Idaho","Home"
-"716","Troy","11/20/04","419","Middle Tenn. St.","Home"
-"716","Troy","09/04/04","388","Marshall","Away"
-"716","Troy","11/06/04","229","Fla. Atlantic","Home"
-"716","Troy","10/16/04","30","Arkansas St.","Away"
-"718","Tulane","10/09/04","196","East Caro.","Away"
-"718","Tulane","12/04/04","367","Louisville","Home"
-"718","Tulane","10/23/04","9","UAB","Home"
-"718","Tulane","10/30/04","288","Houston","Away"
-"718","Tulane","09/04/04","430","Mississippi St.","Away"
-"718","Tulane","10/16/04","404","Memphis","Away"
-"718","Tulane","11/27/04","698","TCU","Away"
-"718","Tulane","09/25/04","664","Southern Miss.","Home"
-"718","Tulane","11/06/04","726","Navy","Home"
-"718","Tulane","09/11/04","228","Florida A&M","Home"
-"718","Tulane","11/13/04","725","Army","Home"
-"719","Tulsa","09/04/04","328","Kansas","Away"
-"719","Tulsa","10/23/04","466","Nevada","Away"
-"719","Tulsa","11/20/04","630","San Jose St.","Home"
-"719","Tulsa","10/02/04","277","Hawaii","Away"
-"719","Tulsa","09/18/04","726","Navy","Home"
-"719","Tulsa","10/16/04","66","Boise St.","Home"
-"719","Tulsa","11/27/04","704","UTEP","Home"
-"719","Tulsa","10/30/04","574","Rice","Home"
-"719","Tulsa","11/06/04","663","Southern Methodist","Away"
-"719","Tulsa","09/11/04","521","Oklahoma St.","Away"
-"719","Tulsa","11/13/04","366","Louisiana Tech","Away"
-"719","Tulsa","09/25/04","669","Southwest Mo. St.","Home"
-"721","Air Force","10/23/04","77","Brigham Young","Home"
-"721","Air Force","09/04/04","107","California","Home"
-"721","Air Force","11/13/04","626","San Diego St.","Home"
-"721","Air Force","11/20/04","156","Colorado St.","Home"
-"721","Air Force","10/09/04","473","New Mexico","Home"
-"721","Air Force","09/11/04","207","Eastern Wash.","Home"
-"721","Air Force","10/30/04","811","Wyoming","Away"
-"721","Air Force","09/25/04","732","Utah","Away"
-"721","Air Force","09/30/04","726","Navy","Home"
-"721","Air Force","11/06/04","725","Army","Away"
-"721","Air Force","09/18/04","465","UNLV","Away"
-"725","Army","10/02/04","698","TCU","Home"
-"725","Army","12/04/04","726","Navy","Neutral Site"
-"725","Army","11/06/04","721","Air Force","Home"
-"725","Army","10/09/04","140","Cincinnati","Home"
-"725","Army","11/13/04","718","Tulane","Away"
-"725","Army","09/25/04","164","Connecticut","Away"
-"725","Army","10/30/04","196","East Caro.","Away"
-"725","Army","09/11/04","367","Louisville","Home"
-"725","Army","11/20/04","9","UAB","Home"
-"725","Army","10/16/04","651","South Fla.","Away"
-"725","Army","09/18/04","288","Houston","Away"
-"726","Navy","10/30/04","180","Delaware","Home"
-"726","Navy","11/20/04","587","Rutgers","Home"
-"726","Navy","10/23/04","574","Rice","Home"
-"726","Navy","09/04/04","193","Duke","Home"
-"726","Navy","10/16/04","513","Notre Dame","Neutral Site"
-"726","Navy","12/30/04","473","New Mexico","Neutral Site"
-"726","Navy","09/11/04","500","Northeastern","Home"
-"726","Navy","09/18/04","719","Tulsa","Away"
-"726","Navy","09/25/04","736","Vanderbilt","Home"
-"726","Navy","11/06/04","718","Tulane","Away"
-"726","Navy","12/04/04","725","Army","Neutral Site"
-"726","Navy","09/30/04","721","Air Force","Away"
-"731","Utah St.","10/09/04","497","North Texas","Home"
-"731","Utah St.","11/20/04","472","New Mexico St.","Home"
-"731","Utah St.","09/25/04","465","UNLV","Away"
-"731","Utah St.","09/18/04","732","Utah","Home"
-"731","Utah St.","11/06/04","498","La.-Monroe","Away"
-"731","Utah St.","10/02/04","716","Troy","Away"
-"731","Utah St.","10/16/04","147","Clemson","Away"
-"731","Utah St.","10/30/04","419","Middle Tenn. St.","Away"
-"731","Utah St.","09/11/04","295","Idaho","Home"
-"731","Utah St.","09/04/04","8","Alabama","Away"
-"731","Utah St.","11/11/04","30","Arkansas St.","Away"
-"732","Utah","11/20/04","77","Brigham Young","Home"
-"732","Utah","09/11/04","29","Arizona","Away"
-"732","Utah","10/30/04","626","San Diego St.","Away"
-"732","Utah","01/01/05","545","Pittsburgh","Neutral Site"
-"732","Utah","11/06/04","156","Colorado St.","Home"
-"732","Utah","10/01/04","473","New Mexico","Away"
-"732","Utah","09/02/04","697","Texas A&M","Home"
-"732","Utah","11/13/04","811","Wyoming","Away"
-"732","Utah","09/18/04","731","Utah St.","Away"
-"732","Utah","09/25/04","721","Air Force","Home"
-"732","Utah","10/23/04","465","UNLV","Home"
-"732","Utah","10/16/04","457","North Carolina","Home"
-"736","Vanderbilt","09/18/04","433","Mississippi","Away"
-"736","Vanderbilt","11/20/04","694","Tennessee","Home"
-"736","Vanderbilt","09/25/04","726","Navy","Away"
-"736","Vanderbilt","11/06/04","235","Florida","Home"
-"736","Vanderbilt","09/04/04","648","South Carolina","Home"
-"736","Vanderbilt","10/30/04","365","LSU","Away"
-"736","Vanderbilt","10/16/04","257","Georgia","Away"
-"736","Vanderbilt","10/23/04","202","Eastern Ky.","Home"
-"736","Vanderbilt","11/13/04","334","Kentucky","Away"
-"736","Vanderbilt","10/09/04","587","Rutgers","Home"
-"736","Vanderbilt","10/02/04","430","Mississippi St.","Home"
-"742","Virginia Tech","09/18/04","193","Duke","Home"
-"742","Virginia Tech","01/03/05","37","Auburn","Neutral Site"
-"742","Virginia Tech","11/18/04","392","Maryland","Home"
-"742","Virginia Tech","12/04/04","415","Miami (Fla.)","Away"
-"742","Virginia Tech","10/28/04","255","Georgia Tech","Away"
-"742","Virginia Tech","08/28/04","657","Southern California","Neutral Site"
-"742","Virginia Tech","09/25/04","490","North Carolina St.","Home"
-"742","Virginia Tech","11/27/04","746","Virginia","Home"
-"742","Virginia Tech","11/06/04","457","North Carolina","Away"
-"742","Virginia Tech","10/16/04","228","Florida A&M","Home"
-"742","Virginia Tech","10/09/04","749","Wake Forest","Away"
-"742","Virginia Tech","09/11/04","774","Western Mich.","Home"
-"742","Virginia Tech","10/02/04","768","West Virginia","Home"
-"746","Virginia","09/11/04","457","North Carolina","Home"
-"746","Virginia","09/04/04","690","Temple","Away"
-"746","Virginia","10/16/04","234","Florida St.","Away"
-"746","Virginia","11/27/04","742","Virginia Tech","Away"
-"746","Virginia","12/27/04","96","Fresno St.","Neutral Site"
-"746","Virginia","11/13/04","415","Miami (Fla.)","Home"
-"746","Virginia","11/06/04","392","Maryland","Home"
-"746","Virginia","11/20/04","255","Georgia Tech","Away"
-"746","Virginia","09/18/04","5","Akron","Home"
-"746","Virginia","09/25/04","688","Syracuse","Home"
-"746","Virginia","10/07/04","147","Clemson","Home"
-"746","Virginia","10/23/04","193","Duke","Away"
-"749","Wake Forest","09/04/04","147","Clemson","Away"
-"749","Wake Forest","10/30/04","193","Duke","Home"
-"749","Wake Forest","11/20/04","415","Miami (Fla.)","Away"
-"749","Wake Forest","11/27/04","392","Maryland","Away"
-"749","Wake Forest","09/11/04","196","East Caro.","Away"
-"749","Wake Forest","09/18/04","488","N.C. A&T","Home"
-"749","Wake Forest","09/25/04","67","Boston College","Home"
-"749","Wake Forest","10/09/04","742","Virginia Tech","Home"
-"749","Wake Forest","10/23/04","234","Florida St.","Home"
-"749","Wake Forest","10/02/04","490","North Carolina St.","Away"
-"749","Wake Forest","11/13/04","457","North Carolina","Home"
-"754","Washington St.","09/03/04","473","New Mexico","Away"
-"754","Washington St.","11/06/04","110","UCLA","Away"
-"754","Washington St.","11/20/04","756","Washington","Home"
-"754","Washington St.","09/11/04","157","Colorado","Neutral Site"
-"754","Washington St.","09/25/04","29","Arizona","Away"
-"754","Washington St.","10/16/04","674","Stanford","Home"
-"754","Washington St.","10/23/04","528","Oregon St.","Away"
-"754","Washington St.","10/09/04","529","Oregon","Home"
-"754","Washington St.","11/13/04","28","Arizona St.","Away"
-"754","Washington St.","09/18/04","295","Idaho","Away"
-"754","Washington St.","10/30/04","657","Southern California","Home"
-"756","Washington","09/05/04","96","Fresno St.","Home"
-"756","Washington","11/06/04","29","Arizona","Home"
-"756","Washington","10/30/04","529","Oregon","Away"
-"756","Washington","10/16/04","528","Oregon St.","Home"
-"756","Washington","09/25/04","513","Notre Dame","Away"
-"756","Washington","10/02/04","674","Stanford","Away"
-"756","Washington","10/23/04","657","Southern California","Away"
-"756","Washington","11/13/04","107","California","Home"
-"756","Washington","09/18/04","110","UCLA","Home"
-"756","Washington","10/09/04","630","San Jose St.","Home"
-"756","Washington","11/20/04","754","Washington St.","Away"
-"768","West Virginia","01/01/05","234","Florida St.","Neutral Site"
-"768","West Virginia","11/13/04","67","Boston College","Home"
-"768","West Virginia","11/06/04","690","Temple","Home"
-"768","West Virginia","10/02/04","742","Virginia Tech","Away"
-"768","West Virginia","09/11/04","128","UCF","Away"
-"768","West Virginia","11/25/04","545","Pittsburgh","Away"
-"768","West Virginia","10/30/04","587","Rutgers","Away"
-"768","West Virginia","09/04/04","196","East Caro.","Home"
-"768","West Virginia","10/13/04","164","Connecticut","Away"
-"768","West Virginia","09/18/04","392","Maryland","Home"
-"768","West Virginia","09/25/04","317","James Madison","Home"
-"768","West Virginia","10/21/04","688","Syracuse","Home"
-"774","Western Mich.","10/30/04","129","Central Mich.","Away"
-"774","Western Mich.","09/18/04","301","Illinois","Away"
-"774","Western Mich.","11/13/04","414","Miami (Ohio)","Home"
-"774","Western Mich.","11/20/04","388","Marshall","Away"
-"774","Western Mich.","10/16/04","204","Eastern Mich.","Home"
-"774","Western Mich.","10/09/04","709","Toledo","Home"
-"774","Western Mich.","09/25/04","47","Ball St.","Away"
-"774","Western Mich.","11/06/04","71","Bowling Green","Away"
-"774","Western Mich.","10/23/04","503","Northern Ill.","Home"
-"774","Western Mich.","09/02/04","695","Tenn.-Martin","Home"
-"774","Western Mich.","09/11/04","742","Virginia Tech","Away"
-"796","Wisconsin","09/11/04","465","UNLV","Home"
-"796","Wisconsin","11/13/04","416","Michigan St.","Away"
-"796","Wisconsin","01/01/05","257","Georgia","Neutral Site"
-"796","Wisconsin","09/04/04","128","UCF","Home"
-"796","Wisconsin","10/23/04","509","Northwestern","Home"
-"796","Wisconsin","09/25/04","539","Penn St.","Home"
-"796","Wisconsin","11/06/04","428","Minnesota","Home"
-"796","Wisconsin","09/18/04","29","Arizona","Away"
-"796","Wisconsin","10/09/04","518","Ohio St.","Away"
-"796","Wisconsin","11/20/04","312","Iowa","Away"
-"796","Wisconsin","10/02/04","301","Illinois","Home"
-"796","Wisconsin","10/16/04","559","Purdue","Away"
-"811","Wyoming","10/16/04","77","Brigham Young","Away"
-"811","Wyoming","10/22/04","156","Colorado St.","Away"
-"811","Wyoming","10/09/04","626","San Diego St.","Home"
-"811","Wyoming","12/23/04","110","UCLA","Neutral Site"
-"811","Wyoming","09/04/04","27","Appalachian St.","Home"
-"811","Wyoming","09/11/04","697","Texas A&M","Away"
-"811","Wyoming","11/06/04","465","UNLV","Away"
-"811","Wyoming","10/02/04","498","La.-Monroe","Home"
-"811","Wyoming","11/13/04","732","Utah","Home"
-"811","Wyoming","10/30/04","721","Air Force","Home"
-"811","Wyoming","11/20/04","473","New Mexico","Away"
-"811","Wyoming","09/25/04","433","Mississippi","Home"
+Date,"Opponent1","Pts","Opponent1_Location","Opponent2","Pts",Notes
+"09/18/04","Air Force","27","Home","UNLV","10",
+"10/09/04","Air Force","28","Away","New Mexico","23",
+"11/06/04","Air Force","31","Home","Army","22",
+"09/11/04","Air Force","42","Away","Eastern Washington","20",
+"11/20/04","Air Force","47","Away","Colorado St.","17",
+"09/23/04","Akron","24","Home","Kent St.","19",
+"10/16/04","Akron","26","Home","UCF","21",
+"11/05/04","Akron","31","Away","Marshall","28",
+"11/13/04","Akron","31","Home","Ohio","19",
+"10/23/04","Akron","35","Away","Ball St.","23",
+"10/09/04","Akron","44","Away","Buffalo","21",
+"10/16/04","Alabama","27","Away","Southern Miss.","3",
+"09/11/04","Alabama","28","Away","Ole Miss","7",
+"11/06/04","Alabama","30","Away","Mississippi St.","14",
+"10/09/04","Alabama","45","Home","Kentucky","17",
+"09/04/04","Alabama","48","Away","Utah St.","17",
+"09/18/04","Alabama","52","Away","Western Carolina","0",
+"11/13/04","Alabama-Birmingham","20","Away","Houston","7",
+"11/20/04","Alabama-Birmingham","20","Home","Army","14",
+"10/09/04","Alabama-Birmingham","27","Home","Mississippi St.","13",
+"10/02/04","Alabama-Birmingham","30","Home","Cincinnati","27",
+"09/25/04","Alabama-Birmingham","35","Away","Memphis","28",
+"10/15/04","Alabama-Birmingham","41","Away","TCU","25",
+"09/04/04","Alabama-Birmingham","56","Away","Baylor","14",
+"09/25/04","Arizona St.","27","Away","Oregon St.","14",
+"12/31/04","Arizona St.","27","Away","Purdue","23",Sun Bowl (El Paso TX)
+"10/02/04","Arizona St.","28","Home","Oregon","13",
+"09/11/04","Arizona St.","30","Home","Northwestern","21",
+"11/06/04","Arizona St.","34","Away","Stanford","31",
+"09/02/04","Arizona St.","41","Away","UTEP","9",
+"09/18/04","Arizona St.","44","Away","Iowa","7",
+"11/13/04","Arizona St.","45","Away","Washington St.","28",
+"10/23/04","Arizona St.","48","Away","UCLA","42",
+"09/04/04","Arizona","21","Away","Northern Arizona","3",
+"11/06/04","Arizona","23","Home","Washington","13",
+"11/26/04","Arizona","34","Away","Arizona St.","27",
+"10/16/04","Arkansas St.","13","Away","Troy","9",
+"11/11/04","Arkansas St.","16","Away","Utah St.","7",
+"09/25/04","Arkansas St.","28","Home","La.-Monroe","21",
+"11/20/04","Arkansas","24","Home","Mississippi St.","21",
+"09/25/04","Arkansas","27","Away","Alabama","10",
+"11/13/04","Arkansas","35","Away","Ole Miss","3",
+"09/18/04","Arkansas","49","Away","La.-Monroe","20",Little Rock AR
+"09/04/04","Arkansas","63","Away","New Mexico St.","13",
+"10/16/04","Army","42","Home","South Fla.","35",
+"10/09/04","Army","48","Away","Cincinnati","29",
+"09/18/04","Auburn","10","Away","LSU","9",
+"01/03/05","Auburn","16","Away","Virginia Tech","13",Sugar Bowl (New Orleans LA)
+"11/20/04","Auburn","21","Home","Alabama","13",
+"11/13/04","Auburn","24","Away","Georgia","6",
+"09/04/04","Auburn","31","Away","La.-Monroe","0",
+"09/25/04","Auburn","33","Away","Citadel","3",
+"10/02/04","Auburn","34","Home","Tennessee","10",
+"10/30/04","Auburn","35","Home","Ole Miss","14",
+"10/16/04","Auburn","38","Away","Arkansas","20",
+"12/04/04","Auburn","38","Away","Tennessee","28",SEC Championship (Atlanta GA)
+"10/23/04","Auburn","42","Away","Kentucky","10",
+"09/11/04","Auburn","43","Home","Mississippi St.","14",
+"10/09/04","Auburn","52","Away","Louisiana Tech","7",
+"11/13/04","Ball St.","21","Away","UCF","17",
+"09/25/04","Ball St.","41","Away","Western Mich.","14",
+"09/11/04","Baylor","24","Away","Texas St.","17",
+"10/30/04","Baylor","35","Away","Texas A&M","34",
+"09/25/04","Baylor","37","Away","North Texas","14",
+"11/20/04","Bethune-Cookman","58","Away","Florida A&M","52",Orlando FL
+"09/24/04","Boise St.","28","Away","BYU","27",
+"10/23/04","Boise St.","33","Away","Fresno St.","16",
+"10/02/04","Boise St.","38","Away","SMU","20",
+"10/16/04","Boise St.","45","Home","Tulsa","42",
+"09/18/04","Boise St.","47","Home","UTEP","31",
+"09/10/04","Boise St.","53","Away","Oregon St.","34",
+"11/20/04","Boise St.","55","Away","Louisiana Tech","14",
+"11/13/04","Boise St.","56","Home","San Jose St.","49",
+"11/27/04","Boise St.","58","Home","Nevada","21",
+"09/04/04","Boise St.","65","Away","Idaho","7",
+"10/29/04","Boise St.","69","Away","Hawaii","3",
+"09/02/04","Boston College","19","Home","Ball St.","11",
+"09/11/04","Boston College","21","Away","Penn St.","7",
+"11/06/04","Boston College","21","Away","Rutgers","10",
+"10/23/04","Boston College","24","Home","Notre Dame","23",
+"09/17/04","Boston College","27","Away","Connecticut","7",
+"10/02/04","Boston College","29","Away","Massachusetts","7",
+"11/20/04","Boston College","34","Home","Temple","17",
+"11/13/04","Boston College","36","Home","West Virginia","17",
+"12/30/04","Boston College","37","Away","North Carolina","24",Continental Tire Bowl (Charlotte NC)
+"10/09/04","Bowling Green St.","38","Home","Central Michigan","14",
+"10/30/04","Bowling Green St.","41","Away","Eastern Mich.","20",
+"10/23/04","Bowling Green St.","41","Home","Ohio","16",
+"09/11/04","Bowling Green St.","49","Away","Southeast Missouri St.","10",
+"10/16/04","Bowling Green St.","51","Away","Ball St.","13",
+"12/22/04","Bowling Green St.","52","Away","Memphis","35",GMAC Bowl (Mobile AL)
+"11/06/04","Bowling Green St.","52","Away","Western Mich.","0",
+"11/13/04","Bowling Green St.","56","Away","Marshall","35",
+"10/02/04","Bowling Green St.","70","Home","Temple","16",
+"09/04/04","BYU","20","Away","Notre Dame","17",
+"10/16/04","BYU","24","Away","Wyoming","13",
+"10/02/04","BYU","31","Home","Colorado St.","21",
+"10/23/04","BYU","41","Home","Air Force","24",
+"11/06/04","BYU","49","Away","San Diego St.","16",
+"11/13/04","Buffalo","36","Away","Central Michigan","6",
+"10/02/04","Buffalo","48","Away","UCF","20",
+"12/04/04","California","26","Home","Southern Miss.","16",
+"10/30/04","California","27","Away","Arizona St.","0",
+"11/06/04","California","28","Away","Oregon","27",
+"10/23/04","California","38","Home","Arizona","0",
+"09/11/04","California","41","Away","New Mexico St.","14",
+"11/20/04","California","41","Away","Stanford","6",
+"11/13/04","California","42","Home","Washington","12",
+"10/16/04","California","45","Away","UCLA","28",
+"10/02/04","California","49","Home","Oregon St.","7",
+"09/04/04","California","56","Home","Air Force","14",
+"10/02/04","Central Michigan","24","Away","Kent St.","21",
+"10/30/04","Central Michigan","24","Away","Western Mich.","21",
+"11/20/04","Central Michigan","41","Away","Ball St.","40",
+"09/18/04","Central Michigan","44","Away","Southeast Missouri St.","27",
+"10/30/04","Cincinnati","21","Away","TCU","10",
+"09/25/04","Cincinnati","24","Home","East Carolina","19",
+"12/23/04","Cincinnati","32","Away","Marshall","14",Fort Worth Bowl (Fort Worth TX)
+"09/11/04","Cincinnati","45","Away","Miami (OH)","26",
+"11/20/04","Cincinnati","45","Away","South Fla.","23",
+"10/23/04","Cincinnati","49","Away","Memphis","10",
+"11/06/04","Cincinnati","52","Home","Southern Miss.","24",
+"10/23/04","Clemson","10","Away","Maryland","7",
+"11/06/04","Clemson","24","Home","Miami (FL)","17",
+"10/30/04","Clemson","26","Away","North Carolina St.","20",
+"11/20/04","Clemson","29","Away","South Carolina","7",
+"10/16/04","Clemson","35","Away","Utah St.","6",
+"09/04/04","Clemson","37","Away","Wake Forest","30",
+"10/16/04","Colorado St.","21","Home","San Diego St.","17",
+"10/22/04","Colorado St.","30","Away","Wyoming","7",
+"09/25/04","Colorado St.","39","Away","Montana St.","14",
+"11/13/04","Colorado St.","45","Away","UNLV","10",
+"10/16/04","Colorado","19","Away","Iowa St.","14",
+"09/11/04","Colorado","20","Home","Washington St.","12",Seattle WA
+"11/26/04","Colorado","26","Home","Nebraska","20",
+"09/04/04","Colorado","27","Away","Colorado St.","24",
+"11/06/04","Colorado","30","Home","Kansas","21",
+"12/29/04","Colorado","33","Away","UTEP","28",Houston Bowl (Houston TX)
+"11/13/04","Colorado","38","Away","Kansas St.","31",
+"09/18/04","Colorado","52","Away","North Texas","21",
+"09/11/04","Connecticut","22","Away","Duke","20",
+"11/20/04","Connecticut","29","Away","Buffalo","0",
+"09/30/04","Connecticut","29","Away","Pittsburgh","17",
+"12/27/04","Connecticut","39","Away","Toledo","10",Motor City Bowl (Detroit MI)
+"09/25/04","Connecticut","40","Away","Army","3",
+"11/25/04","Connecticut","41","Home","Rutgers","35",
+"10/23/04","Connecticut","45","Away","Temple","31",
+"09/04/04","Connecticut","52","Away","Murray St.","14",
+"11/13/04","Duke","16","Away","Clemson","13",
+"10/02/04","Duke","28","Away","Citadel","10",
+"10/09/04","East Carolina","27","Away","Tulane","25",
+"10/30/04","East Carolina","38","Away","Army","28",
+"09/25/04","Eastern Illinois","31","Home","Eastern Mich.","28",
+"10/09/04","Eastern Mich.","31","Home","Ball St.","24",
+"10/16/04","Eastern Mich.","35","Home","Western Mich.","31",
+"09/02/04","Eastern Mich.","37","Away","Buffalo","34",
+"11/06/04","Eastern Mich.","61","Away","Central Michigan","58",Detroit MI
+"09/25/04","Florida A&M","21","Away","Tennessee St.","15",Atlanta GA
+"10/02/04","Florida A&M","35","Away","Virginia Union","10",
+"10/23/04","Florida A&M","50","Away","Savannah St.","14",
+"12/04/04","Florida Atlantic","17","Away","FIU","10",
+"09/11/04","Florida Atlantic","20","Home","North Texas","13",
+"10/09/04","Florida Atlantic","20","Home","Texas St.","13",
+"09/18/04","Florida Atlantic","27","Home","Middle Tenn.","20",
+"11/20/04","Florida Atlantic","28","Away","Illinois St.","0",
+"09/04/04","Florida Atlantic","35","Home","Hawaii","28",
+"10/30/04","Florida Atlantic","38","Home","Florida A&M","8",
+"10/16/04","Florida Atlantic","39","Home","Northern Colorado","24",
+"11/27/04","Florida Atlantic","49","Away","Edward Waters","15",
+"09/11/04","FIU","22","Home","Youngstown St.","16",
+"10/09/04","FIU","31","Home","Stephen F. Austin","24",
+"11/27/04","FIU","40","Away","Florida A&M","23",
+"11/11/04","Florida St.","17","Home","North Carolina St.","10",
+"10/09/04","Florida St.","17","Home","Syracuse","13",
+"10/23/04","Florida St.","20","Home","Wake Forest","17",
+"11/06/04","Florida St.","29","Away","Duke","7",
+"01/01/05","Florida St.","30","Away","West Virginia","18",Gator Bowl (Jacksonville FL)
+"09/18/04","Florida St.","34","Away","Alabama-Birmingham","7",
+"10/16/04","Florida St.","36","Away","Virginia","3",
+"10/02/04","Florida St.","38","Away","North Carolina","16",
+"09/25/04","Florida St.","41","Away","Clemson","22",
+"09/25/04","Florida","20","Away","Kentucky","3",
+"11/20/04","Florida","20","Home","Florida St.","13",
+"11/06/04","Florida","34","Home","Vanderbilt","17",
+"10/02/04","Florida","45","Away","Arkansas","30",
+"11/13/04","Florida","48","Away","South Carolina","14",
+"09/11/04","Florida","49","Away","Eastern Mich.","10",
+"10/16/04","Florida","52","Away","Middle Tenn.","16",
+"09/18/04","Fresno St.","27","Away","Portland St.","17",
+"09/05/04","Fresno St.","35","Home","Washington","16",
+"12/27/04","Fresno St.","37","Away","Virginia","34",MPC Computers Bowl (Boise ID)
+"10/30/04","Fresno St.","42","Away","SMU","0",
+"09/11/04","Fresno St.","45","Home","Kansas St.","21",
+"11/06/04","Fresno St.","52","Home","Rice","21",
+"11/20/04","Fresno St.","54","Away","Nevada","17",
+"11/27/04","Fresno St.","62","Home","San Jose St.","28",
+"11/12/04","Fresno St.","70","Away","Hawaii","14",
+"11/13/04","Georgia Southern","53","Home","FIU","32",
+"10/09/04","Georgia Tech","20","Home","Maryland","7",
+"10/16/04","Georgia Tech","24","Away","Duke","7",
+"11/06/04","Georgia Tech","24","Home","North Carolina St.","14",
+"09/04/04","Georgia Tech","28","Away","Samford","7",
+"09/11/04","Georgia Tech","28","Home","Clemson","24",
+"11/13/04","Georgia Tech","30","Away","Connecticut","10",
+"12/21/04","Georgia Tech","51","Away","Syracuse","14",Champs Sports Bowl (Orlando FL)
+"09/18/04","Georgia","13","Away","Marshall","3",
+"11/27/04","Georgia","19","Away","Georgia Tech","13",
+"10/23/04","Georgia","20","Home","Arkansas","14",
+"09/11/04","Georgia","20","Home","South Carolina","16",
+"01/01/05","Georgia","24","Away","Wisconsin","21",Outback Bowl (Tampa FL)
+"10/30/04","Georgia","31","Away","Florida","24",Jacksonville FL
+"10/16/04","Georgia","33","Away","Vanderbilt","3",
+"10/02/04","Georgia","45","Away","LSU","16",
+"09/04/04","Georgia","48","Away","Georgia Southern","28",
+"11/06/04","Georgia","62","Home","Kentucky","17",
+"11/06/04","Hawaii","34","Away","Louisiana Tech","23",
+"12/04/04","Hawaii","41","Away","Michigan St.","38",
+"10/02/04","Hawaii","44","Away","Tulsa","16",
+"10/23/04","Hawaii","46","Away","San Jose St.","28",
+"10/09/04","Hawaii","48","Away","Nevada","26",
+"11/27/04","Hawaii","49","Away","Northwestern","41",
+"11/20/04","Hawaii","52","Away","Idaho","21",
+"12/24/04","Hawaii","59","Away","Alabama-Birmingham","40",Hawaii Bowl (Honolulu HI)
+"10/30/04","Houston","24","Away","Tulane","3",
+"11/06/04","Houston","34","Away","East Carolina","24",
+"09/18/04","Houston","35","Away","Army","21",
+"10/16/04","Idaho","38","Away","La.-Lafayette","25",
+"11/06/04","Idaho","45","Away","Arkansas St.","31",Pullman WA
+"10/02/04","Idaho","45","Home","Eastern Mich.","41",
+"11/06/04","Illinois","26","Away","Indiana","22",
+"09/18/04","Illinois","30","Away","Western Mich.","27",
+"09/04/04","Illinois","52","Away","Florida A&M","13",
+"10/30/04","Indiana","30","Away","Minnesota","21",
+"09/11/04","Indiana","30","Home","Oregon","24",
+"09/04/04","Indiana","41","Away","Central Michigan","10",
+"10/30/04","Iowa St.","13","Away","Kansas","7",
+"12/28/04","Iowa St.","17","Away","Miami (OH)","13",Independence Bowl (Shreveport LA)
+"09/04/04","Iowa St.","23","Away","Northern Iowa","0",
+"10/23/04","Iowa St.","26","Home","Baylor","25",
+"11/06/04","Iowa St.","34","Away","Nebraska","27",
+"11/20/04","Iowa St.","37","Home","Kansas St.","23",
+"09/18/04","Iowa St.","48","Away","Northern Ill.","41",
+"09/11/04","Iowa","17","Away","Iowa St.","10",
+"11/06/04","Iowa","23","Away","Purdue","21",
+"10/30/04","Iowa","23","Home","Illinois","13",
+"11/13/04","Iowa","29","Home","Minnesota","27",
+"01/01/05","Iowa","30","Away","LSU","25",Capital One Bowl (Orlando FL)
+"11/20/04","Iowa","30","Away","Wisconsin","7",
+"10/16/04","Iowa","33","Away","Ohio St.","7",
+"10/02/04","Iowa","38","Away","Michigan St.","16",
+"09/04/04","Iowa","39","Away","Kent St.","7",
+"10/23/04","Iowa","6","Home","Penn St.","4",
+"09/04/04","Kansas St.","27","Away","Western Ky.","13",
+"11/06/04","Kansas St.","35","Home","Missouri","24",
+"09/18/04","Kansas St.","40","Away","La.-Lafayette","20",
+"10/23/04","Kansas St.","45","Away","Nebraska","21",
+"09/04/04","Kansas","21","Away","Tulsa","3",
+"10/09/04","Kansas","31","Away","Kansas St.","28",
+"11/20/04","Kansas","31","Home","Missouri","14",
+"09/11/04","Kansas","63","Away","Toledo","14",
+"11/06/04","Kent St.","33","Home","Buffalo","7",
+"09/11/04","Kent St.","38","Away","Liberty","10",
+"11/23/04","Kent St.","41","Home","UCF","24",
+"10/30/04","Kent St.","42","Away","Ohio","16",
+"11/13/04","Kent St.","69","Away","Eastern Mich.","17",
+"11/13/04","Kentucky","14","Away","Vanderbilt","13",
+"09/18/04","Kentucky","51","Away","Indiana","32",
+"09/04/04","LSU","22","Away","Oregon St.","21",
+"10/23/04","LSU","24","Away","Troy","20",
+"10/30/04","LSU","24","Away","Vanderbilt","7",
+"10/09/04","LSU","24","Home","Florida","21",
+"11/13/04","LSU","26","Away","Alabama","10",
+"11/20/04","LSU","27","Away","Ole Miss","24",
+"11/26/04","LSU","43","Home","Arkansas","14",Little Rock AR
+"09/25/04","LSU","51","Away","Mississippi St.","0",
+"09/11/04","LSU","53","Away","Arkansas St.","3",
+"09/11/04","Louisiana Tech","24","Away","La.-Lafayette","20",
+"10/02/04","Louisiana Tech","28","Away","Fresno St.","21",
+"09/06/04","Louisiana Tech","38","Away","Nevada","21",
+"11/13/04","Louisiana Tech","38","Away","Tulsa","21",Shreveport LA
+"10/16/04","Louisiana Tech","41","Home","SMU","10",
+"11/29/04","Louisiana Tech","51","Home","Rice","14",Houston TX
+"09/04/04","La.-Lafayette","14","Away","Northwestern St.","7",
+"09/25/04","La.-Lafayette","24","Away","Middle Tenn.","17",
+"10/23/04","La.-Lafayette","27","Away","Arkansas St.","24",
+"10/02/04","La.-Lafayette","43","Home","FIU","34",
+"11/20/04","La.-Monroe","13","Away","La.-Lafayette","10",
+"10/09/04","La.-Monroe","16","Home","Idaho","14",
+"10/23/04","La.-Monroe","17","Home","Florida Atlantic","13",
+"10/16/04","La.-Monroe","28","Away","FIU","20",
+"11/06/04","La.-Monroe","32","Away","Utah St.","25",
+"09/05/04","Louisville","28","Away","Kentucky","0",
+"09/25/04","Louisville","34","Home","North Carolina","0",
+"10/22/04","Louisville","41","Away","South Fla.","9",
+"12/31/04","Louisville","44","Away","Boise St.","40",Liberty Bowl (Memphis TN)
+"09/11/04","Louisville","52","Home","Army","21",
+"11/10/04","Louisville","55","Away","TCU","28",
+"12/04/04","Louisville","55","Home","Tulane","7",
+"11/04/04","Louisville","56","Home","Memphis","49",
+"10/02/04","Louisville","59","Away","East Carolina","7",
+"11/20/04","Louisville","65","Home","Houston","27",
+"11/27/04","Louisville","70","Away","Cincinnati","7",
+"09/18/04","Maine","9","Home","Mississippi St.","7",
+"10/09/04","Marshall","16","Home","Ohio","13",
+"10/30/04","Marshall","20","Away","UCF","3",
+"10/16/04","Marshall","27","Home","Kent St.","17",
+"11/20/04","Marshall","31","Away","Western Mich.","21",
+"09/29/04","Marshall","33","Away","Miami (OH)","25",
+"10/23/04","Marshall","48","Away","Buffalo","14",
+"11/27/04","Maryland","13","Away","Wake Forest","7",
+"10/30/04","Maryland","20","Away","Florida St.","17",
+"09/04/04","Maryland","23","Away","Northern Ill.","20",
+"09/11/04","Maryland","45","Away","Temple","22",
+"09/25/04","Maryland","55","Home","Duke","21",
+"10/23/04","McNeese St.","30","Home","FIU","27",
+"09/04/04","Memphis","20","Home","Ole Miss","13",
+"11/12/04","Memphis","30","Away","Southern Miss.","26",
+"11/27/04","Memphis","31","Home","South Fla.","15",
+"11/20/04","Memphis","38","Home","East Carolina","35",
+"10/02/04","Memphis","41","Away","Houston","14",
+"09/18/04","Memphis","47","Home","Arkansas St.","35",
+"10/16/04","Memphis","49","Away","Tulane","24",
+"09/11/04","Memphis","52","Away","Chattanooga","21",
+"10/02/04","Miami (FL)","27","Home","Georgia Tech","3",
+"09/23/04","Miami (FL)","38","Home","Houston","13",
+"10/23/04","Miami (FL)","45","Home","North Carolina St.","31",
+"09/18/04","Miami (FL)","48","Away","Louisiana Tech","0",
+"11/20/04","Miami (FL)","52","Away","Wake Forest","7",
+"11/02/04","Miami (OH)","23","Away","Toledo","16",
+"10/16/04","Miami (OH)","25","Home","Buffalo","7",
+"11/20/04","Miami (OH)","37","Home","Akron","27",
+"09/18/04","Miami (OH)","40","Away","Ohio","20",
+"11/13/04","Miami (OH)","42","Home","Western Mich.","21",
+"10/23/04","Miami (OH)","43","Away","UCF","7",
+"10/09/04","Miami (OH)","47","Away","Kent St.","27",
+"08/28/04","Miami (OH)","49","Away","Indiana St.","0",
+"09/10/04","Miami Florida St.","10",
+"12/31/04","Miami Florida","10",Peach Bowl (Atlanta GA)
+"10/14/04","Miami Louisville","38",
+"11/13/04","Miami Virginia","21",
+"09/11/04","Michigan St.","24","Away","Central Michigan","7",
+"09/25/04","Michigan St.","30","Home","Indiana","20",
+"10/09/04","Michigan St.","38","Away","Illinois","25",
+"11/13/04","Michigan St.","49","Away","Wisconsin","14",
+"10/16/04","Michigan St.","51","Away","Minnesota","17",
+"10/23/04","Michigan","16","Home","Purdue","14",
+"09/18/04","Michigan","24","Away","San Diego St.","21",
+"10/09/04","Michigan","27","Away","Minnesota","24",
+"09/25/04","Michigan","30","Away","Iowa","17",
+"10/16/04","Michigan","30","Home","Illinois","19",
+"10/02/04","Michigan","35","Home","Indiana","14",
+"11/13/04","Michigan","42","Away","Northwestern","20",
+"09/04/04","Michigan","43","Away","Miami (OH)","10",
+"10/30/04","Michigan","45","Away","Michigan St.","37",
+"10/30/04","Middle Tenn.","21","Away","Utah St.","0",
+"09/11/04","Middle Tenn.","31","Home","Akron","24",
+"10/23/04","Middle Tenn.","34","Away","Idaho","14",
+"11/13/04","Middle Tenn.","37","Away","La.-Monroe","24",
+"10/09/04","Middle Tenn.","45","Away","Arkansas St.","17",
+"10/02/04","Minnesota","16","Away","Penn St.","7",
+"12/31/04","Minnesota","20","Away","Alabama","16",Music City Bowl (Nashville TN)
+"09/18/04","Minnesota","34","Home","Colorado St.","16",
+"09/11/04","Minnesota","37","Away","Illinois St.","21",
+"09/25/04","Minnesota","43","Away","Northwestern","17",
+"10/23/04","Minnesota","45","Away","Illinois","0",
+"09/04/04","Minnesota","63","Away","Toledo","21",
+"10/30/04","Mississippi St.","22","Away","Kentucky","7",
+"09/04/04","Mississippi St.","28","Away","Tulane","7",
+"10/23/04","Mississippi St.","38","Away","Florida","31",
+"11/27/04","Ole Miss","20","Away","Mississippi St.","3",
+"09/18/04","Ole Miss","26","Away","Vanderbilt","23",
+"10/02/04","Ole Miss","28","Away","Arkansas St.","21",
+"10/09/04","Ole Miss","31","Home","South Carolina","28",
+"10/02/04","Missouri","17","Away","Colorado","9",
+"11/27/04","Missouri","17","Home","Iowa St.","14",
+"10/09/04","Missouri","30","Home","Baylor","10",
+"09/18/04","Missouri","48","Away","Ball St.","0",
+"09/04/04","Missouri","52","Away","Arkansas St.","20",
+"10/23/04","Navy","14","Away","Rice","13",
+"09/30/04","Navy","24","Home","Air Force","21",
+"09/04/04","Navy","27","Away","Duke","12",
+"09/11/04","Navy","28","Away","Northeastern","24",
+"09/25/04","Navy","29","Away","Vanderbilt","26",
+"09/18/04","Navy","29","Home","Tulsa","0",
+"10/30/04","Navy","34","Away","Delaware","20",
+"12/30/04","Navy","34","Away","New Mexico","19",Emerald Bowl (San Francisco CA)
+"12/04/04","Navy","42","Away","Army","13",Philadelphia PA
+"11/20/04","Navy","54","Away","Rutgers","21",
+"10/02/04","Nebraska","14","Away","Kansas","8",
+"10/30/04","Nebraska","24","Away","Missouri","3",
+"09/18/04","Nebraska","24","Home","Pittsburgh","17",
+"09/04/04","Nebraska","56","Away","Western Illinois","17",
+"10/16/04","Nebraska","59","Away","Baylor","27",
+"10/16/04","Nevada","35","Away","Rice","10",
+"09/18/04","Nevada","38","Away","Buffalo","13",
+"11/06/04","Nevada","42","Away","San Jose St.","24",
+"10/23/04","Nevada","54","Away","Tulsa","48",
+"09/11/04","Nevada","59","Away","Sacramento St.","7",
+"10/08/04","UNLV","24","Home","BYU","20",
+"10/02/04","UNLV","48","Away","Nevada","13",
+"09/11/04","New Hampshire","35","Home","Rutgers","24",
+"09/18/04","New Mexico St.","22","Away","Troy","18",
+"10/09/04","New Mexico St.","35","Away","La.-Lafayette","32",
+"11/13/04","New Mexico St.","35","Home","Florida Atlantic","7",
+"11/06/04","New Mexico St.","44","Away","Middle Tenn.","10",
+"10/30/04","New Mexico St.","56","Away","FIU","31",
+"11/20/04","New Mexico","16","Away","Wyoming","9",
+"10/23/04","New Mexico","19","Away","San Diego St.","9",
+"11/13/04","New Mexico","21","Home","BYU","14",
+"10/16/04","New Mexico","24","Home","UNLV","20",
+"10/30/04","New Mexico","26","Home","Colorado St.","17",
+"09/11/04","New Mexico","27","Away","Texas Tech","24",
+"09/25/04","New Mexico","38","Home","New Mexico St.","3",
+"10/09/04","Nicholls St.","42","Home","Florida A&M","25",
+"10/16/04","North Carolina St.","13","Home","Maryland","3",
+"09/25/04","North Carolina St.","17","Home","Virginia Tech","16",
+"10/02/04","North Carolina St.","27","Away","Wake Forest","21",
+"09/04/04","North Carolina St.","42","Away","Richmond","0",
+"11/27/04","North Carolina St.","52","Away","East Carolina","14",Charlotte NC
+"10/09/04","North Carolina","30","Away","North Carolina St.","24",
+"10/30/04","North Carolina","31","Away","Miami (FL)","28",
+"11/13/04","North Carolina","31","Home","Wake Forest","24",
+"09/18/04","North Carolina","34","Away","Georgia Tech","13",
+"11/20/04","North Carolina","40","Home","Duke","17",
+"09/04/04","North Carolina","49","Away","William & Mary","38",
+"11/05/04","North Texas","27","Home","La.-Lafayette","17",
+"10/02/04","North Texas","30","Away","Middle Tenn.","21",
+"11/18/04","North Texas","31","Home","Arkansas St.","7",
+"10/09/04","North Texas","31","Home","Utah St.","23",
+"10/23/04","North Texas","36","Away","New Mexico St.","26",
+"10/30/04","North Texas","45","Away","La.-Monroe","30",
+"11/13/04","North Texas","51","Away","Idaho","29",
+"09/11/04","Northern Ill.","23","Away","Southern Illinois","22",
+"10/09/04","Northern Ill.","30","Home","UCF","28",
+"09/24/04","Northern Ill.","34","Away","Bowling Green St.","17",
+"12/30/04","Northern Ill.","34","Away","Troy","21",Silicon Valley Bowl (San Jose CA)
+"11/20/04","Northern Ill.","34","Home","Eastern Mich.","16",
+"10/30/04","Northern Ill.","38","Home","Ball St.","31",
+"10/16/04","Northern Ill.","42","Away","Central Michigan","10",
+"10/02/04","Northern Ill.","49","Away","Akron","19",
+"10/23/04","Northern Ill.","59","Home","Western Mich.","38",
+"10/30/04","Northwestern","13","Away","Purdue","10",
+"11/06/04","Northwestern","14","Home","Penn St.","7",
+"09/18/04","Northwestern","20","Away","Kansas","17",
+"11/20/04","Northwestern","28","Away","Illinois","21",
+"10/09/04","Northwestern","31","Away","Indiana","24",
+"10/02/04","Northwestern","33","Away","Ohio St.","27",
+"11/06/04","Notre Dame","17","Home","Tennessee","13",
+"10/09/04","Notre Dame","23","Away","Stanford","15",
+"10/16/04","Notre Dame","27","Away","Navy","9",East Rutherford NJ
+"09/11/04","Notre Dame","28","Away","Michigan","20",
+"09/18/04","Notre Dame","31","Home","Michigan St.","24",
+"09/25/04","Notre Dame","38","Away","Washington","3",
+"10/30/04","Ohio St.","21","Away","Penn St.","10",
+"09/18/04","Ohio St.","22","Home","North Carolina St.","14",
+"09/11/04","Ohio St.","24","Away","Marshall","21",
+"09/04/04","Ohio St.","27","Away","Cincinnati","6",
+"10/23/04","Ohio St.","30","Away","Indiana","7",
+"11/06/04","Ohio St.","32","Home","Michigan St.","19",
+"12/29/04","Ohio St.","33","Away","Oklahoma St.","7",Alamo Bowl (San Antonio TX)
+"11/20/04","Ohio St.","37","Away","Michigan","21",
+"11/06/04","Ohio","17","Home","UCF","16",
+"10/02/04","Ohio","28","Home","Kentucky","16",
+"09/25/04","Ohio","34","Away","Buffalo","0",
+"09/04/04","Ohio","42","Away","Virginia Military Institute","14",
+"10/23/04","Oklahoma St.","20","Home","Missouri","17",
+"09/04/04","Oklahoma St.","31","Home","UCLA","20",
+"10/02/04","Oklahoma St.","36","Away","Iowa St.","7",
+"09/11/04","Oklahoma St.","38","Away","Tulsa","21",
+"10/09/04","Oklahoma St.","42","Home","Colorado","14",
+"11/13/04","Oklahoma St.","49","Away","Baylor","21",
+"09/18/04","Oklahoma St.","59","Away","SMU","7",
+"10/09/04","Oklahoma","12","Away","Texas","0",Dallas TX
+"10/02/04","Oklahoma","28","Away","Texas Tech","13",
+"11/13/04","Oklahoma","30","Away","Nebraska","3",
+"09/18/04","Oklahoma","31","Away","Oregon","7",
+"10/16/04","Oklahoma","31","Home","Kansas St.","21",
+"11/20/04","Oklahoma","35","Home","Baylor","0",
+"10/30/04","Oklahoma","38","Home","Oklahoma St.","35",
+"09/04/04","Oklahoma","40","Away","Bowling Green St.","24",
+"10/23/04","Oklahoma","41","Away","Kansas","10",
+"12/04/04","Oklahoma","42","Away","Colorado","3",Big 12 Championship (Kansas City MO)
+"11/06/04","Oklahoma","42","Home","Texas A&M","35",
+"09/11/04","Oklahoma","63","Away","Houston","13",
+"09/18/04","Oregon St.","17","Away","New Mexico","7",
+"11/13/04","Oregon St.","24","Home","Stanford","19",
+"10/30/04","Oregon St.","28","Home","Arizona","14",
+"10/16/04","Oregon St.","29","Home","Washington","14",
+"12/28/04","Oregon St.","38","Away","Notre Dame","21",Insight Bowl (Phoenix AZ)
+"10/23/04","Oregon St.","38","Away","Washington St.","19",
+"11/20/04","Oregon St.","50","Away","Oregon","21",
+"10/23/04","Oregon","16","Home","Stanford","13",
+"10/16/04","Oregon","28","Away","Arizona","14",
+"10/30/04","Oregon","31","Away","Washington","6",
+"10/09/04","Oregon","41","Home","Washington St.","38",
+"09/25/04","Oregon","48","Away","Idaho","10",
+"11/13/04","Penn St.","22","Home","Indiana","18",
+"09/18/04","Penn St.","37","Away","UCF","13",
+"11/20/04","Penn St.","37","Away","Michigan St.","13",
+"09/04/04","Penn St.","48","Away","Akron","10",
+"11/25/04","Pittsburgh","16","Away","West Virginia","13",
+"10/16/04","Pittsburgh","20","Away","Boston College","17",
+"09/11/04","Pittsburgh","24","Away","Ohio","3",
+"10/09/04","Pittsburgh","27","Home","Temple","22",
+"09/25/04","Pittsburgh","41","Away","Furman","38",
+"10/23/04","Pittsburgh","41","Away","Rutgers","17",
+"11/13/04","Pittsburgh","41","Home","Notre Dame","38",
+"12/04/04","Pittsburgh","43","Home","South Fla.","14",
+"10/09/04","Purdue","20","Home","Penn St.","13",
+"11/13/04","Purdue","24","Away","Ohio St.","17",
+"09/25/04","Purdue","38","Home","Illinois","30",
+"10/02/04","Purdue","41","Home","Notre Dame","16",
+"09/05/04","Purdue","51","Away","Syracuse","0",
+"09/11/04","Purdue","59","Away","Ball St.","7",
+"11/20/04","Purdue","63","Away","Indiana","24",
+"09/05/04","Rice","10","Away","Houston","7",Houston TX
+"09/18/04","Rice","41","Away","Hawaii","29",
+"10/09/04","Rice","44","Away","SMU","10",
+"10/16/04","Rutgers","16","Away","Temple","6",
+"09/04/04","Rutgers","19","Away","Michigan St.","14",
+"09/18/04","Rutgers","29","Away","Kent St.","21",
+"10/09/04","Rutgers","37","Home","Vanderbilt","34",
+"11/20/04","San Diego St.","21","Away","UNLV","3",
+"09/25/04","San Diego St.","27","Away","Nevada","10",
+"11/13/04","San Diego St.","37","Home","Air Force","31",
+"09/04/04","San Diego St.","38","Away","Idaho St.","21",
+"09/18/04","San Jose St.","47","Away","Morgan St.","28",
+"10/02/04","San Jose St.","70","Away","Rice","63",
+"10/16/04","South Carolina","12","Home","Kentucky","7",
+"09/25/04","South Carolina","17","Away","Troy","7",
+"10/02/04","South Carolina","20","Home","Alabama","3",
+"09/04/04","South Carolina","31","Home","Vanderbilt","6",
+"09/18/04","South Carolina","34","Away","South Fla.","3",
+"11/06/04","South Carolina","35","Away","Arkansas","32",
+"09/11/04","South Fla.","21","Away","Tennessee Tech","7",
+"11/13/04","South Fla.","41","Away","East Carolina","17",
+"11/03/04","South Fla.","45","Home","Alabama-Birmingham","20",
+"09/25/04","South Fla.","45","Home","TCU","44",
+"10/09/04","Southern California","23","Away","California","17",
+"08/28/04","Southern California","24","Away","Virginia Tech","13",BCA Classic (Landover MD)
+"11/06/04","Southern California","28","Home","Oregon St.","20",
+"12/04/04","Southern California","29","Home","UCLA","24",
+"09/25/04","Southern California","31","Home","Stanford","28",
+"10/23/04","Southern California","38","Away","Washington","0",
+"11/27/04","Southern California","41","Away","Notre Dame","10",
+"09/18/04","Southern California","42","Home","BYU","10",
+"10/30/04","Southern California","42","Home","Washington St.","12",
+"10/16/04","Southern California","45","Away","Arizona St.","7",
+"11/13/04","Southern California","49","Away","Arizona","9",
+"09/11/04","Southern California","49","Away","Colorado St.","0",
+"01/04/05","Southern California","55","Away","Oklahoma","19",Orange Bowl (Miami FL)
+"09/25/04","SMU","36","Away","San Jose St.","13",
+"11/13/04","SMU","38","Away","Nevada","20",
+"11/06/04","SMU","41","Away","Tulsa","35",
+"09/11/04","Southern Miss.","21","Home","Nebraska","17",
+"11/27/04","Southern Miss.","26","Away","Alabama-Birmingham","21",
+"10/02/04","Southern Miss.","27","Home","South Fla.","20",
+"12/14/04","Southern Miss.","31","Away","North Texas","10",New Orleans Bowl (New Orleans LA)
+"09/25/04","Southern Miss.","32","Home","Tulane","14",
+"10/07/04","Southern Miss.","35","Away","Houston","29",
+"10/23/04","Southern Miss.","51","Away","East Carolina","10",
+"10/16/04","Stanford","23","Home","Washington St.","17",
+"10/02/04","Stanford","27","Away","Washington","13",
+"09/11/04","Stanford","37","Away","BYU","10",
+"09/04/04","Stanford","43","Away","San Jose St.","3",
+"09/18/04","Syracuse","19","Away","Cincinnati","7",
+"09/11/04","Syracuse","37","Home","Buffalo","17",
+"11/06/04","Syracuse","38","Away","Pittsburgh","31",
+"10/02/04","Syracuse","41","Away","Rutgers","31",
+"10/30/04","Syracuse","42","Away","Connecticut","30",
+"11/27/04","Syracuse","43","Home","Boston College","17",
+"11/13/04","Temple","34","Away","Syracuse","24",
+"09/18/04","Temple","38","Away","Florida A&M","7",
+"10/23/04","Tennessee","17","Away","Alabama","13",
+"10/09/04","Tennessee","19","Home","Georgia","14",
+"10/16/04","Tennessee","21","Home","Ole Miss","17",
+"09/18/04","Tennessee","30","Away","Florida","28",
+"11/27/04","Tennessee","37","Away","Kentucky","31",
+"01/01/05","Tennessee","38","Away","Texas A&M","7",Cotton Bowl (Dallas TX)
+"11/20/04","Tennessee","38","Home","Vanderbilt","33",
+"09/25/04","Tennessee","42","Away","Louisiana Tech","17",
+"09/05/04","Tennessee","42","Away","UNLV","17",
+"10/30/04","Tennessee","43","Home","South Carolina","29",
+"09/18/04","Texas A&M","27","Away","Clemson","6",
+"10/23/04","Texas A&M","29","Away","Colorado","26",
+"09/11/04","Texas A&M","31","Away","Wyoming","0",
+"11/13/04","Texas A&M","32","Away","Texas Tech","25",
+"10/09/04","Texas A&M","34","Home","Iowa St.","3",
+"10/16/04","Texas A&M","36","Home","Oklahoma St.","20",
+"10/02/04","Texas A&M","42","Away","Kansas St.","30",
+"10/02/04","TCU","21","Home","Army","17",
+"10/23/04","TCU","34","Away","Houston","27",
+"11/20/04","TCU","42","Away","Southern Miss.","17",
+"09/11/04","TCU","44","Away","SMU","0",
+"09/02/04","TCU","48","Away","Northwestern","45",
+"09/04/04","Texas Tech","27","Home","SMU","13",
+"11/27/04","Texas Tech","31","Away","Oklahoma St.","15",
+"09/25/04","Texas Tech","31","Home","Kansas","30",
+"10/30/04","Texas Tech","35","Home","Kansas St.","25",
+"11/06/04","Texas Tech","42","Away","Baylor","17",
+"12/30/04","Texas Tech","45","Away","California","31",Holiday Bowl (San Diego CA)
+"10/09/04","Texas Tech","70","Away","Nebraska","10",
+"09/18/04","Texas Tech","70","Away","TCU","35",
+"09/11/04","Texas","22","Home","Arkansas","20",
+"11/26/04","Texas","26","Away","Texas A&M","13",
+"11/13/04","Texas","27","Home","Kansas","23",
+"10/16/04","Texas","28","Away","Missouri","20",
+"10/30/04","Texas","31","Home","Colorado","7",
+"09/25/04","Texas","35","Away","Rice","13",
+"01/01/05","Texas","38","Away","Michigan","37",Rose Bowl (Pasadena CA)
+"10/02/04","Texas","44","Away","Baylor","14",
+"10/23/04","Texas","51","Home","Texas Tech","21",
+"11/06/04","Texas","56","Away","Oklahoma St.","35",
+"09/04/04","Texas","65","Away","North Texas","0",
+"10/09/04","UTEP","24","Home","Fresno St.","21",
+"09/11/04","UTEP","32","Away","Weber St.","0",
+"11/13/04","UTEP","35","Away","Rice","28",
+"10/30/04","UTEP","38","Home","San Jose St.","20",
+"10/23/04","UTEP","44","Home","Louisiana Tech","27",
+"10/02/04","UTEP","45","Away","New Mexico St.","0",
+"10/16/04","UTEP","51","Away","Hawaii","20",
+"11/20/04","UTEP","57","Away","SMU","27",
+"10/23/04","Toledo","27","Away","Central Michigan","22",
+"10/16/04","Toledo","31","Away","Ohio","13",
+"11/09/04","Toledo","31","Home","Northern Ill.","17",
+"12/02/04","Toledo","35","Away","Miami (OH)","27",MAC Championship (Detroit MI)
+"09/18/04","Toledo","42","Home","Eastern Mich.","32",
+"09/25/04","Toledo","45","Away","Temple","17",
+"11/23/04","Toledo","49","Away","Bowling Green St.","41",
+"10/02/04","Toledo","52","Away","Ball St.","14",
+"10/09/04","Toledo","59","Home","Western Mich.","33",
+"11/13/04","Troy","13","Home","La.-Lafayette","10",
+"09/04/04","Troy","17","Home","Marshall","15",
+"11/06/04","Troy","24","Away","Florida Atlantic","6",
+"09/09/04","Troy","24","Away","Missouri","14",
+"11/20/04","Troy","37","Away","Middle Tenn.","17",
+"10/30/04","Troy","47","Away","Idaho","7",
+"10/02/04","Troy","49","Away","Utah St.","21",
+"11/27/04","Tulane","35","Home","TCU","31",
+"09/11/04","Tulane","39","Away","Florida A&M","19",
+"11/06/04","Tulane","42","Away","Navy","10",
+"11/13/04","Tulane","45","Away","Army","31",
+"10/23/04","Tulane","59","Away","Alabama-Birmingham","55",
+"11/20/04","Tulsa","34","Away","San Jose St.","24",
+"11/27/04","Tulsa","37","Away","UTEP","35",
+"10/30/04","Tulsa","39","Away","Rice","22",
+"09/25/04","Tulsa","49","Away","Missouri St.","7",
+"10/30/04","UCLA","21","Away","Stanford","0",
+"10/02/04","UCLA","33","Away","San Diego St.","10",
+"11/13/04","UCLA","34","Home","Oregon","26",
+"09/11/04","UCLA","35","Home","Illinois","17",
+"10/09/04","UCLA","37","Away","Arizona","17",
+"09/18/04","UCLA","37","Home","Washington","31",
+"09/11/04","Utah St.","14","Away","Idaho","7",
+"09/25/04","Utah St.","31","Home","UNLV","21",
+"11/20/04","Utah St.","34","Away","New Mexico St.","25",
+"09/11/04","Utah","23","Home","Arizona","6",
+"10/01/04","Utah","28","Home","New Mexico","7",
+"01/01/05","Utah","35","Away","Pittsburgh","7",Fiesta Bowl (Tempe AZ)
+"09/02/04","Utah","41","Away","Texas A&M","21",
+"11/13/04","Utah","45","Home","Wyoming","28",
+"10/16/04","Utah","46","Away","North Carolina","16",
+"09/18/04","Utah","48","Home","Utah St.","6",
+"09/25/04","Utah","49","Away","Air Force","35",
+"10/30/04","Utah","51","Home","San Diego St.","28",
+"11/20/04","Utah","52","Away","BYU","21",
+"11/06/04","Utah","63","Away","Colorado St.","31",
+"10/23/04","Utah","63","Away","UNLV","28",
+"10/23/04","Vanderbilt","19","Away","Eastern Kentucky","7",
+"10/02/04","Vanderbilt","31","Away","Mississippi St.","13",
+"12/04/04","Virginia Tech","16","Home","Miami (FL)","10",
+"10/09/04","Virginia Tech","17","Home","Wake Forest","10",
+"10/02/04","Virginia Tech","19","Away","West Virginia","13",
+"11/27/04","Virginia Tech","24","Away","Virginia","10",
+"11/06/04","Virginia Tech","27","Home","North Carolina","24",
+"10/28/04","Virginia Tech","34","Home","Georgia Tech","20",
+"09/18/04","Virginia Tech","41","Away","Duke","17",
+"11/18/04","Virginia Tech","55","Away","Maryland","6",
+"10/16/04","Virginia Tech","62","Away","Florida A&M","0",
+"09/11/04","Virginia Tech","63","Away","Western Mich.","0",
+"11/06/04","Virginia","16","Away","Maryland","0",
+"10/07/04","Virginia","30","Away","Clemson","10",
+"11/20/04","Virginia","30","Home","Georgia Tech","10",
+"09/25/04","Virginia","31","Away","Syracuse","10",
+"10/23/04","Virginia","37","Home","Duke","16",
+"09/04/04","Virginia","44","Home","Temple","14",
+"09/18/04","Virginia","51","Away","Akron","0",
+"09/11/04","Virginia","56","Away","North Carolina","24",
+"09/25/04","Wake Forest","17","Away","Boston College","14",
+"10/30/04","Wake Forest","24","Away","Duke","22",
+"09/11/04","Wake Forest","31","Home","East Carolina","17",
+"09/18/04","Wake Forest","42","Away","North Carolina A&T","3",
+"09/25/04","Washington St.","20","Home","Arizona","19",
+"09/03/04","Washington St.","21","Home","New Mexico","17",
+"11/20/04","Washington St.","28","Away","Washington","25",
+"11/06/04","Washington St.","31","Home","UCLA","29",
+"09/18/04","Washington St.","49","Away","Idaho","8",
+"10/09/04","Washington","21","Away","San Jose St.","6",
+"09/18/04","West Virginia","19","Away","Maryland","16",
+"10/21/04","West Virginia","27","Away","Syracuse","6",
+"10/13/04","West Virginia","31","Home","Connecticut","19",
+"10/30/04","West Virginia","35","Home","Rutgers","30",
+"11/06/04","West Virginia","42","Away","Temple","21",
+"09/25/04","West Virginia","45","Away","James Madison","10",
+"09/11/04","West Virginia","45","Home","UCF","20",
+"09/04/04","West Virginia","56","Away","East Carolina","23",
+"11/20/04","Western Ky.","35","Home","FIU","14",
+"09/02/04","Western Mich.","42","Away","Tennessee-Martin","0",
+"09/25/04","Wisconsin","16","Away","Penn St.","3",
+"09/11/04","Wisconsin","18","Away","UNLV","3",
+"10/16/04","Wisconsin","20","Home","Purdue","17",
+"10/02/04","Wisconsin","24","Away","Illinois","7",
+"10/23/04","Wisconsin","24","Away","Northwestern","12",
+"10/09/04","Wisconsin","24","Home","Ohio St.","13",
+"09/04/04","Wisconsin","34","Away","UCF","6",
+"11/06/04","Wisconsin","38","Away","Minnesota","14",
+"09/18/04","Wisconsin","9","Home","Arizona","7",
+"10/09/04","Wyoming","20","Away","San Diego St.","10",
+"12/23/04","Wyoming","24","Away","UCLA","21",Las Vegas Bowl (Las Vegas NV)
+"10/02/04","Wyoming","31","Away","La.-Monroe","10",
+"09/25/04","Wyoming","37","Away","Ole Miss","32",
+"10/30/04","Wyoming","43","Away","Air Force","26",
+"09/04/04","Wyoming","53","Away","Appalachian St.","7",
+"11/06/04","Wyoming","53","Home","UNLV","45",

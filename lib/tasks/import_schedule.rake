@@ -29,6 +29,17 @@ def get_year(row)
     return Year.find_by_year(d.year).id
 end
 
+def check_or_add_team(row)
+    id = row[3].to_i
+    team_name = row[4]
+    if Team.find_by_id(id).nil?
+        t = Team.new
+        t.id = id
+        t.name = team_name
+        t.save!
+    end
+end
+
 namespace :populate do
     namespace :2012 do
         desc "Import schedule from csv file"
@@ -44,6 +55,7 @@ namespace :populate do
                 :home_opponent1 => bool_home(row),
                 :year_id => get_year(row)
                 )
+                check_or_add_team(row)
             end
         end
     end
@@ -61,6 +73,7 @@ namespace :populate do
                 :home_opponent1 => bool_home(row),
                 :year_id => get_year(row)
                 )
+                check_or_add_team(row)
             end
         end
     end
@@ -79,6 +92,8 @@ namespace :populate do
                 :home_opponent1 => bool_home(row),
                 :year_id => get_year(row)
                 )
+
+                check_or_add_team(row)
             end
         end
     end
@@ -96,7 +111,9 @@ namespace :populate do
                 :opponent2_score => get_score(row, 2),
                 :home_opponent1 => bool_home(row),
                 :year_id => get_year(row)
+                
                 )
+                check_or_add_team(row)
             end
         end
     end
@@ -115,6 +132,7 @@ namespace :populate do
                 :home_opponent1 => bool_home(row),
                 :year_id => get_year(row)
                 )
+                check_or_add_team(row)
             end
         end
     end
@@ -133,9 +151,15 @@ namespace :populate do
                 :home_opponent1 => bool_home(row),
                 :year_id => get_year(row)
                 )
+                check_or_add_team(row)
             end
         end
     end
+
+
+
+
+    # This is where everything goes to shit -- ffs. Have to now start using data from another source which isnt as good.
 
     namespace :2006 do
         desc "Import schedule from csv file"
@@ -143,7 +167,7 @@ namespace :populate do
             file = "Schedule2006.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
                 Schedule.create(
-                :opponent1_id => row[0].to_i,
+                :opponent1_id => Team.find_by_name(row[0]),
                 :opponent2_id => row[3].to_i,
                 :date => Date.strptime(row[2],'%m/%d/%y'),
                 :opponent1_score => get_score(row, 1),
