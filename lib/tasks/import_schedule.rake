@@ -16,6 +16,15 @@ def get_score(row, int)
     end
 end
 
+def get_score_retroactive(row,int)
+    d =Date.strptime(row[0], '%m/%d/%y')
+    if int == 1
+        return row[2].to_i
+    else
+        return row[5].to_i
+    end
+end
+
 def bool_home(row)
     if row[7] == "Home"
         return true
@@ -24,8 +33,21 @@ def bool_home(row)
     end
 end
 
+def bool_home_retroactive(row)
+    if row[3] == "Home"
+        return true
+    else
+        return false
+    end
+end
+
 def get_year(row)
     d = Date.strptime(row[2], '%m/%d/%y')
+    return Year.find_by_year(d.year).id
+end
+
+def get_year_retroactive(row)
+    d = Date.strptime(row[0], '%m/%d/%y')
     return Year.find_by_year(d.year).id
 end
 
@@ -167,13 +189,13 @@ namespace :populate do
             file = "Schedule2006.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
                 Schedule.create(
-                :opponent1_id => Team.find_by_name(row[0]),
-                :opponent2_id => row[3].to_i,
-                :date => Date.strptime(row[2],'%m/%d/%y'),
-                :opponent1_score => get_score(row, 1),
-                :opponent2_score => get_score(row, 2),
-                :home_opponent1 => bool_home(row),
-                :year_id => get_year(row)
+                :opponent1_id => Team.find_by_name(row[1]),
+                :opponent2_id => Team.find_by_name(row[4]),
+                :date => Date.strptime(row[0],'%m/%d/%y'),
+                :opponent1_score => get_score_retroactive(row, 1),
+                :opponent2_score => get_score_retroactive(row, 2),
+                :home_opponent1 => bool_home_retroactive(row),
+                :year_id => get_year_retroactive(row)
                 )
             end
         end
@@ -185,13 +207,13 @@ namespace :populate do
             file = "Schedule2005.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
                 Schedule.create(
-                :opponent1_id => row[0].to_i,
-                :opponent2_id => row[3].to_i,
-                :date => Date.strptime(row[2],'%m/%d/%y'),
-                :opponent1_score => get_score(row, 1),
-                :opponent2_score => get_score(row, 2),
-                :home_opponent1 => bool_home(row),
-                :year_id => get_year(row)
+                :opponent1_id => Team.find_by_name(row[1]),
+                :opponent2_id => Team.find_by_name(row[4]),
+                :date => Date.strptime(row[0],'%m/%d/%y'),
+                :opponent1_score => get_score_retroactive(row, 1),
+                :opponent2_score => get_score_retroactive(row, 2),
+                :home_opponent1 => bool_home_retroactive(row),
+                :year_id => get_year_retroactive(row)
                 )
             end
         end
@@ -203,13 +225,13 @@ namespace :populate do
             file = "Schedule2004.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
                 Schedule.create(
-                :opponent1_id => row[0].to_i,
-                :opponent2_id => row[3].to_i,
-                :date => Date.strptime(row[2],'%m/%d/%y'),
-                :opponent1_score => get_score(row, 1),
-                :opponent2_score => get_score(row, 2),
-                :home_opponent1 => bool_home(row),
-                :year_id => get_year(row)
+                :opponent1_id => Team.find_by_name(row[1]),
+                :opponent2_id => Team.find_by_name(row[4]),
+                :date => Date.strptime(row[0],'%m/%d/%y'),
+                :opponent1_score => get_score_retroactive(row, 1),
+                :opponent2_score => get_score_retroactive(row, 2),
+                :home_opponent1 => bool_home_retroactive(row),
+                :year_id => get_year_retroactive(row)
                 )
             end
         end
@@ -221,13 +243,13 @@ namespace :populate do
             file = "Schedule2003.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
                 Schedule.create(
-                :opponent1_id => row[0].to_i,
-                :opponent2_id => row[3].to_i,
-                :date => Date.strptime(row[2],'%m/%d/%y'),
-                :opponent1_score => get_score(row, 1),
-                :opponent2_score => get_score(row, 2),
-                :home_opponent1 => bool_home(row),
-                :year_id => get_year(row)
+                :opponent1_id => Team.find_by_name(row[1]),
+                :opponent2_id => Team.find_by_name(row[4]),
+                :date => Date.strptime(row[0],'%m/%d/%y'),
+                :opponent1_score => get_score_retroactive(row, 1),
+                :opponent2_score => get_score_retroactive(row, 2),
+                :home_opponent1 => bool_home_retroactive(row),
+                :year_id => get_year_retroactive(row)
                 )
             end
         end
@@ -240,13 +262,13 @@ namespace :populate do
             file = "Schedule2002.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/schedules/#{file}", :headers => true) do |row|
                 Schedule.create(
-                :opponent1_id => row[0].to_i,
-                :opponent2_id => row[3].to_i,
-                :date => Date.strptime(row[2],'%m/%d/%y'),
-                :opponent1_score => get_score(row, 1),
-                :opponent2_score => get_score(row, 2),
-                :home_opponent1 => bool_home(row),
-                :year_id => get_year(row)
+                :opponent1_id => Team.find_by_name(row[1]),
+                :opponent2_id => Team.find_by_name(row[4]),
+                :date => Date.strptime(row[0],'%m/%d/%y'),
+                :opponent1_score => get_score_retroactive(row, 1),
+                :opponent2_score => get_score_retroactive(row, 2),
+                :home_opponent1 => bool_home_retroactive(row),
+                :year_id => get_year_retroactive(row)
                 )
             end
         end
