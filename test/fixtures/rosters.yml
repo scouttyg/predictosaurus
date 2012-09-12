@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  team_id: 1
+  player_id: 1
+  uniform_number: 1
+  position: MyString
+  year: MyString
+
+two:
+  team_id: 1
+  player_id: 1
+  uniform_number: 1
+  position: MyString
+  year: MyString
