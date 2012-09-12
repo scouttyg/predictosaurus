@@ -78,7 +78,7 @@ end
 namespace :populate do
     namespace :y2012 do
         desc "Import schedule from csv file"
-        task :import_schedules => [:environment] do
+        task :import_rosters => [:environment] do
             file = "Schedule2012.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/rosters/#{file}", :headers => true) do |row|
                 Roster.create(
@@ -89,6 +89,12 @@ namespace :populate do
                     :year_college => row[6],
                     :year_id => 11 #No year in data, so just have to manually put it in
                 )
+
+                p = Player.new
+                p.id = row[7].to_i
+                p.first_name = row[4]
+                p.last_name = row[3]
+                p.save!
             end
         end
     end
