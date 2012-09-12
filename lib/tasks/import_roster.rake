@@ -79,7 +79,7 @@ namespace :populate do
     namespace :y2012 do
         desc "Import schedule from csv file"
         task :import_rosters => [:environment] do
-            file = "Schedule2012.csv"
+            file = "Rosters2012.csv"
             CSV.foreach("#{Rails.root}/db/seed_data/rosters/#{file}", :headers => true) do |row|
                 Roster.create(
                     :team_id => row[0].to_i,
