@@ -11,7 +11,18 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120910190355) do
+ActiveRecord::Schema.define(:version => 20120912200357) do
+
+  create_table "rosters", :force => true do |t|
+    t.integer  "team_id"
+    t.integer  "player_id"
+    t.integer  "uniform_number"
+    t.string   "position"
+    t.string   "year_college"
+    t.integer  "year_id"
+    t.datetime "created_at",     :null => false
+    t.datetime "updated_at",     :null => false
+  end
 
   create_table "schedules", :force => true do |t|
     t.integer  "opponent1_id"
