@@ -1,5 +1,5 @@
 class Schedule < ActiveRecord::Base
-  has_many :teams, :primary_key => :opponent1_id
+  has_many :teams
   belongs_to :years
-  attr_accessible :date, :home_opponent1, :opponent1_id, :opponent1_score, :opponent2_id, :opponent2_score, :year_id
+  attr_accessible :date, :team_id, :team_score, :opponent_id, :opponent_score, :home_team, :year_id
 end

@@ -1,8 +1,8 @@
 class Team < ActiveRecord::Base
   has_many :rosters
   has_many :players, :through => :rosters
-  has_many :schedules, :foreign_key => "opponent1_id"
-  has_many :years, :through => :schedules, :foreign_key => 'opponent1_id'
+  has_many :schedules
+  has_many :years, :through => :schedules
   attr_accessible :location, :name, :stadium_capacity
 
 
