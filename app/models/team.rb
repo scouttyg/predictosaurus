@@ -2,7 +2,6 @@ class Team < ActiveRecord::Base
   has_many :rosters
   has_many :players, :through => :rosters
   has_many :schedules
-  has_many :years, :through => :schedules
   attr_accessible :location, :name, :stadium_capacity
 
 
@@ -14,6 +13,15 @@ class Team < ActiveRecord::Base
 
   def current_roster
   	yid = Year.find_by_year(Time.now.year.to_i).id
+  	self.rosters.find_all_by_year_id(yid)
+  end
+
+  def self.years(school)
+  	t = Team.find_by_name(school)
+  	year_id_array = Schedule.find_all_by_team_id(t.id).map{ |i| i.year_id }.uniq
+  	real_years = []
+  	year_id_array.each{|id| real_years.push(Year.find(id).year)}
+  	real_years
   end
 
 end

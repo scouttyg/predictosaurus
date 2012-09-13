@@ -77,24 +77,76 @@ end
 
 namespace :populate do
     namespace :y2012 do
-        desc "Import schedule from csv file"
+        year_name = "2012"
+        yr_id = 11
+        desc "Import #{year_name} roster from csv file"
         task :import_rosters => [:environment] do
-            file = "Rosters2012.csv"
-            CSV.foreach("#{Rails.root}/db/seed_data/rosters/#{file}", :headers => true) do |row|
-                Roster.create(
-                    :team_id => row[0].to_i,
-                    :player_id => row[7].to_i,
-                    :uniform_number => row[2],
-                    :position => row[5],
-                    :year_college => row[6],
-                    :year_id => 11 #No year in data, so just have to manually put it in
-                )
 
-                p = Player.new
-                p.id = row[7].to_i
-                p.first_name = row[4]
-                p.last_name = row[3]
-                p.save!
+            file = "Rosters#{year_name}.csv"
+            CSV.foreach("#{Rails.root}/db/seed_data/rosters/#{file}", :headers => true) do |row|
+                r = Roster.find(:all, :conditions => {:player_id => row[7].to_i, :year_id => yr_id})
+                if r.empty?
+                    Roster.create(
+                        :team_id => row[0].to_i,
+                        :player_id => row[7].to_i,
+                        :uniform_number => row[2],
+                        :position => row[5],
+                        :year_college => row[6],
+                        :year_id => yr_id #No year in data, so just have to manually put it in
+                    )
+                else
+                end
+                existing_player = Player.find_by_id(row[7].to_i)
+                if existing_player.present?
+                    #skipping, player already exists in database, dont want duplicates for players
+                else 
+                    if existing_player.class == NilClass
+                        unless row[3] == "Team"
+                            new_player = Player.new
+                            new_player.id = row[7].to_i
+                            new_player.first_name = row[4]
+                            new_player.last_name = row[3]
+                            new_player.save!
+                        end
+                    end
+                end
+            end
+        end
+    end
+
+namespace :y2011 do
+        year_name = "2011"
+        yr_id = 10
+        desc "Import #{year_name} roster from csv file"
+        task :import_rosters => [:environment] do
+            file = "Rosters#{year_name}.csv"
+            CSV.foreach("#{Rails.root}/db/seed_data/rosters/#{file}", :headers => true) do |row|
+                r = Roster.find(:all, :conditions => {:player_id => row[7].to_i, :year_id => yr_id})
+                if r.empty?
+                    Roster.create(
+                        :team_id => row[0].to_i,
+                        :player_id => row[7].to_i,
+                        :uniform_number => row[2],
+                        :position => row[5],
+                        :year_college => row[6],
+                        :year_id => yr_id #No year in data, so just have to manually put it in
+                    )
+                else
+                end
+                existing_player = Player.find_by_id(row[7].to_i)
+                if existing_player.present?
+                    #skipping, player already exists in database, dont want duplicates for players
+                else 
+                    if existing_player.class == NilClass
+                        unless row[3] == "Team"
+                            new_player = Player.new
+                            new_player.id = row[7].to_i
+                            new_player.first_name = row[4]
+                            new_player.last_name = row[3]
+                            new_player.save!
+                        end
+                    end
+                end
             end
         end
     end
