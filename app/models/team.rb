@@ -24,4 +24,31 @@ class Team < ActiveRecord::Base
   	real_years
   end
 
+  def schedule(year)
+  	next_year =  year + 1
+  	total_schedule = self.schedules.all(:conditions => { :date => DateTime.strptime("08/01/#{year}","%m/%d/%Y").. DateTime.strptime("01/10/#{next_year}","%m/%d/%Y")})
+  	return total_schedule
+  end
+
+  def current_schedule
+  	current_year = Time.now.year
+  	return self.schedule(current_year)
+  end
+
+  def record(year)
+  	total_schedule = self.schedule(year)
+  	wins = 0
+  	losses = 0
+  	total_schedule.each do |game|
+  		if !game.team_score.nil?
+	  		if game.team_score > game.opponent_score
+	  			wins +=1
+	  		elsif game.team_score < game.opponent_score
+	  			losses +=1
+	  		end
+	  	end
+  	end
+  	p "Record (Win/Loss): #{wins}-#{losses}"
+
+  end
 end
