@@ -1,0 +1,83 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  team_id: 1
+  schedule_id: 1
+  player_id: 1
+  rushing_attempts: 1
+  rushing_gains: 1
+  rushing_losses: 1
+  rushing_net: 1
+  rushing_tds: 1
+  conversion: 1
+  offensive_plays: 1
+  offensive_yards: 
+  catches: 1
+  catching_yards: 1
+  catching_tds: 1
+  pass_int_number: 1
+  pass_int_yards: 
+  pass_int_tds: 1
+  fumble_ret_number: 1
+  fumble_ret_yards: 1
+  fumble_ret_tds: 1
+  punting_number: 1
+  punting_yards: 1
+  punt_return_number: 1
+  punt_return_yards: 1
+  punt_return_tds: 1
+  ko_return_number: 1
+  ko_return_yards: 1
+  ko_return_tds: 1
+  total_tds: 1
+  offensive_xpts_kicks_attempted: 1
+  offensive_xpts_kicks_made: 1
+  rp_attempted: 1
+  rp_made: 1
+  defensive_xpts_kicks_attempted: 1
+  defensive_xpts_kicks_made: 1
+  fg_attempted: 1
+  fg_made: 1
+  safeties: 1
+  points: 1
+
+two:
+  team_id: 1
+  schedule_id: 1
+  player_id: 1
+  rushing_attempts: 1
+  rushing_gains: 1
+  rushing_losses: 1
+  rushing_net: 1
+  rushing_tds: 1
+  conversion: 1
+  offensive_plays: 1
+  offensive_yards: 
+  catches: 1
+  catching_yards: 1
+  catching_tds: 1
+  pass_int_number: 1
+  pass_int_yards: 
+  pass_int_tds: 1
+  fumble_ret_number: 1
+  fumble_ret_yards: 1
+  fumble_ret_tds: 1
+  punting_number: 1
+  punting_yards: 1
+  punt_return_number: 1
+  punt_return_yards: 1
+  punt_return_tds: 1
+  ko_return_number: 1
+  ko_return_yards: 1
+  ko_return_tds: 1
+  total_tds: 1
+  offensive_xpts_kicks_attempted: 1
+  offensive_xpts_kicks_made: 1
+  rp_attempted: 1
+  rp_made: 1
+  defensive_xpts_kicks_attempted: 1
+  defensive_xpts_kicks_made: 1
+  fg_attempted: 1
+  fg_made: 1
+  safeties: 1
+  points: 1

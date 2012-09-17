@@ -1,0 +1,3 @@
+class OffenseStat < ActiveRecord::Base
+  attr_accessible :catches, :catching_tds, :catching_yards, :conversion, :defensive_xpts_kicks_attempted, :defensive_xpts_kicks_made, :fg_attempted, :fg_made, :fumble_ret_number, :fumble_ret_tds, :fumble_ret_yards, :ko_return_number, :ko_return_tds, :ko_return_yards, :offensive_plays, :offensive_xpts_kicks_attempted, :offensive_xpts_kicks_made, :offensive_yards, :pass_int_number, :pass_int_tds, :pass_int_yards, :player_id, :points, :punt_return_number, :punt_return_tds, :punt_return_yards, :punting_number, :punting_yards, :rp_attempted, :rp_made, :rushing_attempts, :rushing_gains, :rushing_losses, :rushing_net, :rushing_tds, :safeties, :schedule_id, :team_id, :total_tds
+end

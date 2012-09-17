@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  team_id: 1
+  schedule_id: 1
+  player_id: 1
+  tackles_unassisted: 1
+  tackles_assisted: 1
+  tackles_for_losses_unassisted: 1
+  tackles_for_losses_assisted: 1
+  tackles_for_losses_yards: 1
+  sacks_unassisted: 1
+  sacks_asssited: 
+  pass_breakups: 1
+  forced_fumbles: 1
+  qb_hurries: 1
+  blocked_kicks: 1
+
+two:
+  team_id: 1
+  schedule_id: 1
+  player_id: 1
+  tackles_unassisted: 1
+  tackles_assisted: 1
+  tackles_for_losses_unassisted: 1
+  tackles_for_losses_assisted: 1
+  tackles_for_losses_yards: 1
+  sacks_unassisted: 1
+  sacks_asssited: 
+  pass_breakups: 1
+  forced_fumbles: 1
+  qb_hurries: 1
+  blocked_kicks: 1

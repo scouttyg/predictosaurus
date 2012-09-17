@@ -11,9 +11,13 @@ class Team < ActiveRecord::Base
   	return "#{rivals[0].name} is rivals with #{rivals[1].name}"
   end
 
-  def current_roster
-  	yid = Year.find_by_year(Time.now.year.to_i).id
+  def roster(year)
+  	yid = Year.find_by_year(year.to_i).id
   	self.rosters.find_all_by_year_id(yid)
+  end
+
+  def current_roster
+  	self.roster(Time.now.year.to_i)
   end
 
   def self.years(school)
@@ -35,6 +39,17 @@ class Team < ActiveRecord::Base
   	return self.schedule(current_year)
   end
 
+
+  def returning_starters(year)
+  	current_roster = self.roster(year)
+  	last_year_roster = self.roster(year-1)
+  	current_roster_ids = return_team_ids(current_roster)
+  	last_year_roster_ids = return_team_ids(last_year_roster)
+  	intersection = current_roster_ids & last_year_roster_ids
+  	percent =  '%.2f' % ((intersection.size.to_f/current_roster.size.to_f)*100)
+  	return "#{percent}% of #{self.name}'s team is returning for #{year}"
+  end
+
   def record(year)
   	total_schedule = self.schedule(year)
   	wins = 0
@@ -51,4 +66,16 @@ class Team < ActiveRecord::Base
   	p "Record (Win/Loss): #{wins}-#{losses}"
 
   end
+
+  private
+
+  	def return_team_ids(array)
+  		roster_ids = []
+  		array.each do |player|
+  			roster_ids.push(player.player_id)
+  		end
+  		return roster_ids
+  	end
+
+
 end
